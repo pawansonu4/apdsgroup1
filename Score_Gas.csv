@@ -1,0 +1,776 @@
+serial,Source,commodity,Date,Sentence,polarity,subjectivety,Sentiment_type
+39,Money Control,natural gas,17.11.2018,Gas production has hit a record high in US but the rapid rise in exports has consumed a large part of the additional gas production,0.187142857,0.484285714,Positive
+215,Money Control,natural gas,28.09.2018,"Natural gas prices are set every six months based on average rates in gas-surplus nations like the US, Russia and Canada.",-0.025,0.4,Negative
+316,Money Control,natural gas,18.08.2018,"Natural Gas prices are also above the 50-day SMA (Orange Line) and RSI is above 50 mark, which indicates prices could edge higher in near term",0.09,0.3,Positive
+328,Money Control,natural gas,13.08.2018,Hareesh V of Geojit Financial Services said immediate support for natural gas is placed at Rs 185 mmbtu and resistance at Rs 220 mmbtu,0.05,0.2,Positive
+1553,Money Control,natural gas,31.05.2017,"According to Sushil Finance, expect Natural gas prices to trade negative on the back of unfavorable weather conditions.",-0.066666667,0.266666667,Negative
+1590,Money Control,natural gas,26.05.2017,"According to Sushil Finance, expect Natural gas prices to trade sideways on the back of short covering after drop in prices.",0.033333333,0.233333333,Positive
+1802,Money Control,natural gas,24.04.2017,"According to Sushil Finance, expect Natural gas prices to trade positive on the back of short covering after drop in prices.",0.081818182,0.311363636,Positive
+1812,Money Control,natural gas,21.04.2017,"According to Sushil Finance, expect Natural gas prices to trade positive on the back of short covering after drop in prices.",0.081818182,0.311363636,Positive
+1855,Money Control,natural gas,17.04.2017,"According to Sushil Finance, expect Natural gas prices to trade positive on the back of short covering after drop in prices.",0.081818182,0.311363636,Positive
+1864,Money Control,natural gas,13.04.2017,"According to Sushil Finance, expect Natural gas prices to trade positive on the back of short covering after drop in prices.",0.081818182,0.311363636,Positive
+1898,Money Control,natural gas,10.04.2017,"According to Sushil Finance, expect Natural gas prices to trade sideways on the back of short covering after drop in prices.",0.033333333,0.233333333,Positive
+1907,Money Control,natural gas,07.04.2017,"According to Sushil Finance, expect Natural gas prices to trade positive on the back of weak production.",-0.011931818,0.392613636,Negative
+1917,Money Control,natural gas,06.04.2017,"According to Sushil Finance, expect Natural gas prices to trade positive on the back of weak production.",-0.011931818,0.392613636,Negative
+1930,Money Control,natural gas,05.04.2017,"According to Sushil Finance, expect Natural gas prices to trade positive on the back of weak production.",-0.011931818,0.392613636,Negative
+1943,Money Control,natural gas,03.04.2017,"According to Sushil Finance, expect Natural gas prices to trade positive on the back of weak production.",-0.011931818,0.392613636,Negative
+1954,Money Control,natural gas,31.03.2017,"Natural gas price was today cut marginally to USD 2.48 per million British thermal unit, the fifth reduction in two years.",0.05,0.2,Positive
+1965,Money Control,natural gas,31.03.2017,"According to Sushil Finance, expect Natural gas prices to trade positive on the back of weak production.",-0.011931818,0.392613636,Negative
+1972,Money Control,natural gas,30.03.2017,"According to Sushil Finance, expect Natural gas prices to trade positive on the back of weak production.",-0.011931818,0.392613636,Negative
+1991,Money Control,natural gas,29.03.2017,"According to Sushil Finance, expect Natural gas prices to trade positive on the back of weak production.",-0.011931818,0.392613636,Negative
+2006,Money Control,natural gas,27.03.2017,"According to Sushil Finance, expect Natural gas prices to trade sideways on the back of profit booking after sharp up-move.",-0.008333333,0.383333333,Negative
+2007,Money Control,natural gas,27.03.2017,"According to Sushil Finance, expect Natural gas prices to trade sideways on the back of profit booking after sharp up-move.",-0.008333333,0.383333333,Negative
+2018,Money Control,natural gas,24.03.2017,"According to Sushil Finance, expect Natural gas prices to trade sideways on the back of profit booking after sharp up-move.",-0.008333333,0.383333333,Negative
+2030,Money Control,natural gas,23.03.2017,"According to Sushil Finance, expect Natural gas prices to trade sideways on the back of profit booking after sharp up-move.",-0.008333333,0.383333333,Negative
+2042,Money Control,natural gas,22.03.2017,"According to Sushil Finance, expect Natural gas prices to trade sideways on the back of profit booking after sharp up-move.",-0.008333333,0.383333333,Negative
+2103,Money Control,natural gas,10.03.2017,"According to Sushil Finance, We expect Natural gas prices to trade sideways on the back of profit booking after sharp up-move in prices.",-0.008333333,0.383333333,Negative
+2115,Money Control,natural gas,09.03.2017,"According to Sushil Finance, We expect Natural gas prices to trade negative on the back of profit booking after sharp up-move in prices.",-0.08125,0.3875,Negative
+2469,Money Control,natural gas,28.12.2016,U.S. natural gas edges lower amid year-end profit-taking,0.1,0.4,Positive
+2471,Money Control,natural gas,28.12.2016,Frigid winter weather driving natural gas consumption to record levels,-0.4,0.7,Negative
+2514,Money Control,natural gas,20.12.2016,U.S. natural gas slides to 3-week low on forecasts for less cold,-0.166666667,0.441666667,Negative
+2522,Money Control,natural gas,19.12.2016,U.S. natural gas futures fall to 2-week low,0.05,0.35,Positive
+2756,Money Control,natural gas,15.11.2016,U.S. natural gas climbs to 1-week high on cold East Coast weather,-0.113333333,0.646666667,Negative
+2769,Money Control,natural gas,14.11.2016,U.S. natural gas rebounds 5% after sizable losses last week,0.05,0.233333333,Positive
+2841,Money Control,natural gas,03.11.2016,U.S. natural gas pushes higher after weekly storage data,0.175,0.45,Positive
+2851,Money Control,natural gas,02.11.2016,U.S. natural gas slides to 8-week low ahead of weekly storage data,0.05,0.35,Positive
+2897,Money Control,natural gas,27.10.2016,U.S. natural gas extends gains after weekly storage data,0.1,0.4,Positive
+2908,Money Control,natural gas,26.10.2016,U.S. natural gas falls to 7-week lows ahead of weekly storage data,0.1,0.4,Positive
+2917,Money Control,natural gas,25.10.2016,U.S. natural gas sinks 5% on unseasonably warm weather outlook,0.2,0.333333333,Positive
+3047,Money Control,natural gas,06.10.2016,U.S. natural gas falls below $3 after bearish weekly storage data,0.1,0.4,Positive
+3059,Money Control,natural gas,05.10.2016,U.S. natural gas falls towards 3-week low ahead of weekly storage data,0.05,0.35,Positive
+3094,Money Control,natural gas,29.09.2016,U.S. natural gas turns higher after bullish weekly storage data,0.175,0.45,Positive
+3108,Money Control,natural gas,28.09.2016,U.S. natural gas slides below $3 ahead of weekly storage data,0.1,0.4,Positive
+3114,Money Control,natural gas,27.09.2016,U.S. natural gas wobbles below 20-month peak amid strong demand,0.266666667,0.566666667,Positive
+3122,Money Control,natural gas,26.09.2016,U.S. natural gas climbs back towards 20-month highs,0.05,0.2,Positive
+3146,Money Control,natural gas,22.09.2016,U.S. natural gas futures turn lower after weekly storage data,0.1,0.4,Positive
+3179,Money Control,natural gas,19.09.2016,U.S. natural gas edges lower but remains near 3-month highs,0.1,0.4,Positive
+3239,Money Control,natural gas,08.09.2016,U.S. natural gas futures extend gains after upbeat storage data,0.1,0.4,Positive
+3302,Money Control,natural gas,31.08.2016,U.S. natural gas rebounds as traders await weekly storage data,0.1,0.4,Positive
+3312,Money Control,natural gas,30.08.2016,U.S. natural gas touches fresh 8-week high on tropical storm activity,0.186666667,0.48,Positive
+3329,Money Control,natural gas,29.08.2016,U.S. natural gas climbs to 8-week high amid bullish momentum,0.13,0.47,Positive
+3360,Money Control,natural gas,25.08.2016,U.S. natural gas futures jump to 3-week highs after storage data,0.1,0.4,Positive
+3383,Money Control,natural gas,23.08.2016,U.S. natural gas climbs to 2-week high with warm weather in focus,0.286666667,0.513333333,Positive
+3445,Money Control,natural gas,17.08.2016,"According to Sushil Finance, We expect Natural gas prices to trade positive on the back of short covering after drop in prices.",0.081818182,0.311363636,Positive
+3454,Money Control,natural gas,16.08.2016,"According to Sushil Finance, We expect Natural gas prices to trade positive on the back of short coveringafter drop in prices.",0.081818182,0.311363636,Positive
+3466,Money Control,natural gas,15.08.2016,U.S. natural gas futures extend recovery from 9-week lows,0.1,0.4,Positive
+3494,Money Control,natural gas,11.08.2016,"According to Sushil Finance, We expect Natural gas prices to trade negative on the back of unfavorable weather conditions.",-0.066666667,0.266666667,Negative
+3501,Money Control,natural gas,10.08.2016,"According to Sushil Finance, We expect Natural gas prices to trade sideways on the back of profit booking after sharp up-move in prices.",-0.008333333,0.383333333,Negative
+3517,Money Control,natural gas,09.08.2016,U.S. natural gas futures fall for 4th straight session,0.15,0.4,Positive
+3533,Money Control,natural gas,08.08.2016,U.S. natural gas futures slide 2% to more than 1-week low,0.2,0.4,Positive
+3556,Money Control,natural gas,04.08.2016,U.S. natural gas futures edge higher after weekly storage data,0.175,0.45,Positive
+3561,Money Control,natural gas,04.08.2016,"According to Sushil Finance, We expect Natural gas prices to trade positive on the back of  favorable weather conditions.",0.109090909,0.315151515,Positive
+3580,Money Control,natural gas,02.08.2016,"According to Sushil Finance, We expect Natural gas prices to trade sideways on the back of profit  booking after up - move in prices.",0.05,0.2,Positive
+3639,Money Control,natural gas,25.07.2016,U.S. natural gas futures drop after rising to 2-week high,0.13,0.47,Positive
+3702,Money Control,natural gas,18.07.2016,U.S. natural gas futures flip between gains and losses,0.1,0.4,Positive
+3739,Money Control,natural gas,13.07.2016,Natural gas futures rise for 2nd day ahead of weekly storage report,0.05,0.2,Positive
+3753,Money Control,natural gas,12.07.2016,Natural gas futures struggle as forecasts point to mild July weather,0.216666667,0.45,Positive
+3759,Money Control,natural gas,12.07.2016,"According to Sushil Finance, We expect Natural gas prices to trade negative on the back of unfavorable weather conditions.",-0.066666667,0.266666667,Negative
+3789,Money Control,natural gas,07.07.2016,Natural gas futures extend gains after bullish weekly storage data,0.1,0.4,Positive
+3798,Money Control,natural gas,06.07.2016,Natural gas futures slump to 1-week low as forecasts turn cooler,0.05,0.35,Positive
+3814,Money Control,natural gas,04.07.2016,Natural gas futures ease off 13-month high in subdued trade,0.13,0.47,Positive
+3841,Money Control,natural gas,30.06.2016,Natural gas futures stay higher after bullish weekly storage data,0.175,0.45,Positive
+3907,Money Control,natural gas,23.06.2016,Natural gas futures edge lower after bearish weekly storage data,0.1,0.4,Positive
+3912,Money Control,natural gas,23.06.2016,"According to Sushil Finance, We expect Natural gas prices to trade positive on the back of  rise in  demand for natural gas.",0.106818182,0.336363636,Positive
+3922,Money Control,natural gas,22.06.2016,Natural gas prices hover near 9-month highs ahead of storage data,0.1,0.4,Positive
+3946,Money Control,natural gas,20.06.2016,Natural gas futures climb to 9-month highs on warm summer outlook,0.35,0.5,Positive
+3949,Money Control,natural gas,20.06.2016,"According to Sushil Finance, We expect Natural gas prices to trade positive on the back of  rise in  demand for natural gas.",0.106818182,0.336363636,Positive
+4003,Money Control,natural gas,14.06.2016,U.S. natural gas prices hold near 9-month highs,0.1,0.4,Positive
+4015,Money Control,natural gas,13.06.2016,U.S. natural gas prices jump to fresh 9-month highs on warm weather,0.333333333,0.5,Positive
+4019,Money Control,natural gas,13.06.2016,"According to Sushil Finance, We expect Natural gas prices to trade positive on the back of  rise in demand for natural gas.",0.106818182,0.336363636,Positive
+4051,Money Control,natural gas,09.06.2016,"According to Sushil Finance, We expect Natural gas prices to trade positive on the back of rise in demand for natural gas.",0.106818182,0.336363636,Positive
+4083,Money Control,natural gas,06.06.2016,"According to Sushil Finance, We expect Natural gas prices to trade sideways on the back of  profit  booking after sharp rise in prices.",-0.008333333,0.383333333,Negative
+4104,Money Control,natural gas,02.06.2016,"According to Sushil Finance, We expect Natural gas prices to trade positive on the back of  rise in demand.",0.109090909,0.315151515,Positive
+4118,Money Control,natural gas,30.05.2016,"According to Sushil Finance, We expect Natural gas prices to trade positive on the back of short covering after slump in prices.",0.081818182,0.311363636,Positive
+4179,Money Control,natural gas,20.05.2016,"According to Sushil Finance, We expect Natural gas prices to trade  negative on the back of  lower  demand.",-0.066666667,0.266666667,Negative
+4189,Money Control,natural gas,19.05.2016,"According to Sushil Finance, We expect Natural gas prices to trade negative on the back of  lower demand.",-0.066666667,0.266666667,Negative
+4195,Money Control,natural gas,18.05.2016,"According to Sushil Finance, We expect Natural gas prices to trade  positive on the back of short  covering.",0.081818182,0.311363636,Positive
+4203,Money Control,natural gas,17.05.2016,"According to Sushil Finance, We expect Natural gas prices to trade positive on the back of  s hort  covering.",0.109090909,0.315151515,Positive
+4241,Money Control,natural gas,12.05.2016,"According to Sushil Finance, U.S. natural gas futures were little changed on Wednesday, settling at  their highest level for the month, on forecasts calling for continued  light heating and cooling demand over the next two weeks.",0.078125,0.4,Positive
+4258,Money Control,natural gas,11.05.2016,"According to Sushil Finance, We expect Natural gas prices to trade positive on the back of  rise in demand for natural gas.",0.106818182,0.336363636,Positive
+4304,Money Control,natural gas,04.05.2016,"According to Sushil Finance, We expect Natural gas prices to trade sideways on the back of profit booking after sharp up - move in prices.",-0.008333333,0.383333333,Negative
+4315,Money Control,natural gas,03.05.2016,"According to Sushil Finance, We expect Natural gas prices to trade negative on the back of  profit  booking after sharp up - move in prices.",-0.08125,0.3875,Negative
+4467,Money Control,natural gas,10.04.2016,Natural gas futures - weekly outlook: April 11 - 15,0.1,0.4,Positive
+4507,Money Control,natural gas,31.03.2016,Natural gas prices retreat from 7-week highs after U.S. storage data,0.1,0.4,Positive
+4533,Money Control,natural gas,28.03.2016,U.S. natural gas futures fall to more than 2-week low,0.2,0.4,Positive
+4552,Money Control,natural gas,23.03.2016,U.S. natural gas futures push higher ahead of storage report,0.175,0.45,Positive
+4565,Money Control,natural gas,22.03.2016,U.S. natural gas futures sink to 1-week low,0.05,0.35,Positive
+4594,Money Control,natural gas,17.03.2016,Natural gas prices reverse gains after U.S. storage data,0.1,0.4,Positive
+4612,Money Control,natural gas,15.03.2016,Natural gas futures climb to 3-week high as V-shaped recovery continues,0.13,0.47,Positive
+4637,Money Control,natural gas,10.03.2016,Natural gas prices reverse gains after U.S. storage data,0.1,0.4,Positive
+4649,Money Control,natural gas,09.03.2016,U.S. natural gas futures extend rebound off 18-year lows,0.1,0.4,Positive
+4669,Money Control,natural gas,07.03.2016,U.S. natural gas futures rally 4% after testing 1995 lows,0.1,0.4,Positive
+4706,Money Control,natural gas,01.03.2016,Natural gas futures slide to fresh 17-year low on mild spring weather,0.183333333,0.425,Positive
+4714,Money Control,natural gas,29.02.2016,U.S. natural gas futures sink to lowest since 1999,0.1,0.4,Positive
+4721,Money Control,natural gas,28.02.2016,Natural gas futures - weekly outlook: February 29 - March 4,0.1,0.4,Positive
+4765,Money Control,natural gas,21.02.2016,Natural gas futures - weekly outlook: February 22 - 26,0.1,0.4,Positive
+4799,Money Control,natural gas,16.02.2016,Warm weather outlook drives natural gas prices to fresh 8-week lows,0.333333333,0.5,Positive
+4826,Money Control,natural gas,14.02.2016,Natural gas futures - weekly outlook: February 15 - 19,0.1,0.4,Positive
+4834,Money Control,natural gas,11.02.2016,Natural gas futures turn lower after U.S. storage data disappoints,0.1,0.4,Positive
+4863,Money Control,natural gas,08.02.2016,Natural gas prices jump 4% as forecasts turn colder,0.1,0.4,Positive
+4893,Money Control,natural gas,03.02.2016,Natural gas prices hold near 6-week low ahead of weekly storage report,0.066666667,0.366666667,Positive
+4904,Money Control,natural gas,02.02.2016,Natural gas prices plunge below $2 on forecasts for warmer weather,0.1,0.4,Positive
+4907,Money Control,natural gas,02.02.2016,"Way2Wealth has recommended to sell MCX Natural Gas Feb around Rs 148.50 with a stop loss of Rs 151.20 for the target price of Rs 143.30/140, in its research report dated Feb 02, 2015.",0.1,0.4,Positive
+4913,Money Control,natural gas,01.02.2016,Natural gas prices plunge 6% on forecasts for less cold,-0.222222222,0.488888889,Negative
+4955,Money Control,natural gas,25.01.2016,Natural gas prices fall as forecasts point to warmer days ahead,0.1,0.4,Positive
+5040,Money Control,natural gas,13.01.2016,Natural gas futures push higher ahead of weekly storage report,0.175,0.45,Positive
+5059,Money Control,natural gas,11.01.2016,Natural gas futures retreat after rallying to 11-week high,0.13,0.47,Positive
+5067,Money Control,natural gas,10.01.2016,Natural gas futures - weekly outlook: January 11 - 15,0.1,0.4,Positive
+5083,Money Control,natural gas,07.01.2016,Natural gas futures soar more than 4% after bullish U.S. storage data,0.3,0.45,Positive
+5094,Money Control,natural gas,06.01.2016,Natural gas futures push higher ahead of weekly storage report,0.175,0.45,Positive
+5102,Money Control,natural gas,05.01.2016,Natural gas futures slide 3% despite cold weather forecasts,-0.25,0.7,Negative
+5124,Money Control,natural gas,31.12.2015,Natural gas futures hold on to strong gains after U.S. storage data,0.266666667,0.566666667,Positive
+5135,Money Control,natural gas,30.12.2015,Natural gas futures tank 5.5% as cold weather seen short-lived,-0.25,0.7,Negative
+5151,Money Control,natural gas,28.12.2015,Natural gas futures extend last week's rally to hit 3-week high,0.086666667,0.335555556,Positive
+5155,Money Control,natural gas,28.12.2015,"Watch the interview of Hitesh Jain, Research Analyst- Commodity of IIFL with Ekta Batra and Anuj Singhal on CNBC-TV18. He spoke about the current trend in commodities markets.",0,0.4,Neutral
+5161,Money Control,natural gas,27.12.2015,Natural gas futures - weekly outlook: December 28 - January 1,0.1,0.4,Positive
+5178,Money Control,natural gas,22.12.2015,Natural gas futures resume decline after Monday's 8% surge,0.1,0.4,Positive
+5204,Money Control,natural gas,17.12.2015,Natural gas futures turn lower after bearish U.S. storage data,0.1,0.4,Positive
+5221,Money Control,natural gas,15.12.2015,Natural gas prices slide to fresh 14-year low for 2nd day,0.1,0.3,Positive
+5235,Money Control,natural gas,14.12.2015,Natural gas prices sink 6% to hit 14-year low on warm winter outlook,0.233333333,0.433333333,Positive
+5261,Money Control,natural gas,10.12.2015,Natural gas futures rally after U.S. storage withdrawal,0.1,0.4,Positive
+5291,Money Control,natural gas,08.12.2015,Natural gas prices slide to 6-week lows on warm December weather,0.35,0.5,Positive
+5304,Money Control,natural gas,07.12.2015,Natural gas sinks to 2-week lows on weak heating demand signals,-0.125,0.341666667,Negative
+5317,Money Control,natural gas,06.12.2015,Natural gas futures - weekly outlook: December 7 - 11,0.1,0.4,Positive
+5333,Money Control,natural gas,03.12.2015,Natural gas futures little changed despite supply withdrawal,-0.04375,0.45,Negative
+5350,Money Control,natural gas,02.12.2015,Natural gas futures under pressure ahead of weekly storage report,0.1,0.4,Positive
+5376,Money Control,natural gas,30.11.2015,Natural gas struggles near recent lows on warm December outlook,0.2,0.4125,Positive
+5409,Money Control,natural gas,24.11.2015,Natural gas futures slump 3% with storage report in focus,0.1,0.4,Positive
+5426,Money Control,natural gas,22.11.2015,Natural gas futures - weekly outlook: November 23 - 27,0.1,0.4,Positive
+5441,Money Control,natural gas,18.11.2015,"Natural gas prices fluctuate with supply data, weather in focus",0.1,0.4,Positive
+5479,Money Control,natural gas,12.11.2015,Natural gas prices fluctuate near 8-day low ahead of storage data,0.066666667,0.366666667,Positive
+5486,Money Control,natural gas,11.11.2015,U.S. natural gas prices edge higher on shifting weather forecasts,0.175,0.45,Positive
+5510,Money Control,natural gas,09.11.2015,U.S. natural gas futures sink 2% on warm November outlook,0.35,0.5,Positive
+5559,Money Control,natural gas,04.11.2015,Natural gas futures rise 2% with storage report in focus,0.1,0.4,Positive
+5604,Money Control,natural gas,01.11.2015,Natural gas futures - weekly outlook: November 2 - 6,0.1,0.4,Positive
+5643,Money Control,natural gas,27.10.2015,U.S. natural gas futures crash to 3-year low on weather outlook,0.05,0.35,Positive
+5690,Money Control,natural gas,21.10.2015,Natural gas futures sink to 3-year low with storage report in focus,0.05,0.35,Positive
+5742,Money Control,natural gas,15.10.2015,Natural gas futures turn lower after bearish weekly storage data,0.1,0.4,Positive
+5755,Money Control,natural gas,14.10.2015,U.S. natural gas futures push higher as market awaits storage report,0.175,0.45,Positive
+5772,Money Control,natural gas,13.10.2015,U.S. natural gas futures rise for 6th straight day on demand hopes,0.15,0.4,Positive
+5790,Money Control,natural gas,12.10.2015,U.S. natural gas futures rise to 8-day high on chilly weather forecasts,-0.113333333,0.613333333,Negative
+5900,Money Control,natural gas,29.09.2015,U.S. natural gas futures fall towards 5-month low on demand outlook,0.05,0.35,Positive
+5915,Money Control,natural gas,27.09.2015,Natural gas futures - weekly outlook: Sept. 28 - Oct. 2,0.1,0.4,Positive
+5917,Money Control,natural gas,24.09.2015,Natural gas extends losses after storage data,0.1,0.4,Positive
+5960,Money Control,natural gas,20.09.2015,Natural gas futures - weekly outlook: September 21 - 25,0.1,0.4,Positive
+6026,Money Control,natural gas,10.09.2015,Natural gas futures extend gains after bullish weekly storage data,0.1,0.4,Positive
+6040,Money Control,natural gas,09.09.2015,U.S. natural gas futures slump as market awaits storage report,0.1,0.4,Positive
+6057,Money Control,natural gas,08.09.2015,U.S. natural gas futures rise on shifting weather forecasts,0.1,0.4,Positive
+6092,Money Control,natural gas,04.09.2015,"According to Sushil Finance, Natural gas prices are expected to trade negative on the back of weak demand.",-0.135,0.365,Negative
+6098,Money Control,natural gas,03.09.2015,Natural gas futures trim gains after weekly storage data,0.1,0.4,Positive
+6123,Money Control,natural gas,01.09.2015,U.S. natural gas futures push higher in early trade,0.15,0.4,Positive
+6163,Money Control,natural gas,27.08.2015,Natural gas futures extend losses after bearish storage data,0.1,0.4,Positive
+6178,Money Control,natural gas,26.08.2015,U.S. natural gas futures inch up as market awaits storage report,0.1,0.4,Positive
+6209,Money Control,natural gas,24.08.2015,U.S. natural gas futures slide to 11-week low as forecasts turn cooler,0.05,0.35,Positive
+6226,Money Control,natural gas,23.08.2015,Natural gas futures - weekly outlook: August 24 - 28,0.1,0.4,Positive
+6242,Money Control,natural gas,20.08.2015,Natural gas futures jump 2% after bullish storage data,0.1,0.4,Positive
+6290,Money Control,natural gas,17.08.2015,"Way2Wealth has recommended to sell MCX Natural Gas Aug around Rs 185.80 with a stop loss of Rs 192 for the target price of Rs 174.50, in its research report dated Aug 17, 2015.",0.1,0.4,Positive
+6343,Money Control,natural gas,11.08.2015,"According to Sushil Finance, Natural gas prices is expected to trade negative on the back of low demand for Natural gas.",-0.033333333,0.316666667,Negative
+6347,Money Control,natural gas,10.08.2015,U.S. natural gas futures push higher on southern U.S. heatwave,0.116666667,0.3,Positive
+6375,Money Control,natural gas,06.08.2015,Natural gas futures erase losses after bullish storage data,0.1,0.4,Positive
+6418,Money Control,natural gas,03.08.2015,U.S. natural gas futures trade near 3-week low amid mild weather,0.133333333,0.4,Positive
+6453,Money Control,natural gas,30.07.2015,Natural gas futures extend losses after storage data,0.1,0.4,Positive
+6472,Money Control,natural gas,29.07.2015,U.S. natural gas futures rise as market awaits storage report,0.1,0.4,Positive
+6531,Money Control,natural gas,23.07.2015,Natural gas futures briefly rise to 5-week high before turning lower,0.086666667,0.424444444,Positive
+6588,Money Control,natural gas,19.07.2015,Natural gas futures - weekly outlook: July 20 - 24,0.1,0.4,Positive
+6672,Money Control,natural gas,09.07.2015,Natural gas futures tumble to 4-week low after bearish storage data,0.05,0.35,Positive
+6701,Money Control,natural gas,07.07.2015,U.S. natural gas futures hit 1-month low on mild July weather outlook,0.144444444,0.4,Positive
+6786,Money Control,natural gas,24.06.2015,Natural gas futures push higher as market awaits storage report,0.175,0.45,Positive
+6807,Money Control,natural gas,21.06.2015,Natural gas futures - weekly outlook: June 22 - 26,0.1,0.4,Positive
+6820,Money Control,natural gas,18.06.2015,Natural gas futures extend losses after storage data,0.1,0.4,Positive
+6846,Money Control,natural gas,16.06.2015,Natural gas futures rally to 3-week high before turning lower,0.13,0.47,Positive
+6875,Money Control,natural gas,11.06.2015,Natural gas futures nurse losses after storage data,0.1,0.4,Positive
+6890,Money Control,natural gas,10.06.2015,Natural gas futures hit 3-week high with weekly storage data eyed,0.13,0.47,Positive
+6902,Money Control,natural gas,09.06.2015,Natural gas futures jump to 8-day high as forecasts turn warmer,0.13,0.47,Positive
+6916,Money Control,natural gas,08.06.2015,Natural gas futures rally more than 2% in early trade,0.233333333,0.4,Positive
+6942,Money Control,natural gas,04.06.2015,Natural gas futures plunge to 5-week low after bearish storage data,0.05,0.35,Positive
+7002,Money Control,natural gas,27.05.2015,Natural gas futures rebound with all eyes on weekly storage data,0.1,0.4,Positive
+7006,Money Control,natural gas,26.05.2015,Natural gas futures fall sharply as mild weather weighs,0.216666667,0.45,Positive
+7060,Money Control,natural gas,19.05.2015,Natural gas futures rally to 4-month peak on warm weather outlook,0.35,0.5,Positive
+7094,Money Control,natural gas,14.05.2015,Natural gas higher after storage data,0.175,0.45,Positive
+7132,Money Control,natural gas,11.05.2015,Natural gas futures turn lower after hitting 7-week high,0.13,0.47,Positive
+7140,Money Control,natural gas,10.05.2015,Natural gas futures - weekly outlook: May 11 - 15,0.1,0.4,Positive
+7151,Money Control,natural gas,07.05.2015,Natural gas futures erase gains after bearish storage data,0.1,0.4,Positive
+7162,Money Control,natural gas,06.05.2015,Natural gas trades near 6-week high with all eyes on weekly storage data,0.12,0.446666667,Positive
+7173,Money Control,natural gas,05.05.2015,Natural gas futures trade near 6-week high on warm weather outlook,0.24,0.485,Positive
+7182,Money Control,natural gas,04.05.2015,Natural gas futures drop from 5-week high on mild weather outlook,0.197777778,0.48,Positive
+7207,Money Control,natural gas,29.04.2015,Natural gas futures rise with all eyes on weekly storage data,0.1,0.4,Positive
+7220,Money Control,natural gas,28.04.2015,Natural gas futures bounce off 3-year low on bargain buying,0.05,0.35,Positive
+7234,Money Control,natural gas,27.04.2015,Natural gas futures tumble 3% on forecasts for mild weather,0.216666667,0.45,Positive
+7290,Money Control,natural gas,21.04.2015,Natural gas futures rebound as power plant demand climbs,0.1,0.4,Positive
+7323,Money Control,natural gas,19.04.2015,Natural gas futures - weekly outlook: April 20 - 24,0.1,0.4,Positive
+7342,Money Control,natural gas,16.04.2015,Natural gas futures tumble 2% after bearish storage data,0.1,0.4,Positive
+7357,Money Control,natural gas,15.04.2015,Natural gas futures rise ahead of weekly storage data,0.1,0.4,Positive
+7391,Money Control,natural gas,12.04.2015,Natural gas futures - weekly outlook: April 13 - 17,0.1,0.4,Positive
+7414,Money Control,natural gas,08.04.2015,Natural gas futures fall on expectations for bearish supply report,0.1,0.4,Positive
+7426,Money Control,natural gas,07.04.2015,Natural gas futures inch higher with weather outlook in focus,0.175,0.45,Positive
+7440,Money Control,natural gas,06.04.2015,Natural gas futures fall more than 2% on warmer outlook,0.3,0.45,Positive
+7469,Money Control,natural gas,31.03.2015,Natural gas futures fluctuate with weather forecasts in focus,0.1,0.4,Positive
+7484,Money Control,natural gas,30.03.2015,Natural gas futures trade near 7-week low on warmer outlook,0.066666667,0.366666667,Positive
+7511,Money Control,natural gas,26.03.2015,Natural gas futures down 1% after first inventory build of season,0.064814815,0.340740741,Positive
+7618,Money Control,natural gas,16.03.2015,Natural gas futures under pressure as winter draws to an end,0.1,0.4,Positive
+7683,Money Control,natural gas,09.03.2015,Natural gas futures plunge 5% as winter draws to an end,0.1,0.4,Positive
+7695,Money Control,natural gas,08.03.2015,Natural gas futures - weekly outlook: March 9 - 13,0.1,0.4,Positive
+7707,Money Control,natural gas,04.03.2015,Natural gas futures rally more than 2% on late winter storm,0.1,0.5,Positive
+7736,Money Control,natural gas,01.03.2015,Natural gas futures - weekly outlook: March 2 - 6,0.1,0.4,Positive
+7773,Money Control,natural gas,24.02.2015,"Natural gas wavers near 5-week high with weather, supplies in focus",0.12,0.446666667,Positive
+7780,Money Control,natural gas,24.02.2015,"Way2Wealth has come out with its special report on Natural Gas. The research firm has recommended to buy MCX Natural Gas February above Rs 172 for the target of Rs 204 with a stop loss of Rs 158, in its research report dated February 11, 2015.",0.071428571,0.374285714,Positive
+7788,Money Control,natural gas,23.02.2015,Natural gas futures climb to 5-week high on U.S. cold blast,-0.113333333,0.646666667,Negative
+7809,Money Control,natural gas,19.02.2015,Natural gas futures down more than 1% after storage data,0.148148148,0.396296296,Positive
+7833,Money Control,natural gas,17.02.2015,Natural gas futures slip into the red as earlier gains fade,0.033333333,0.3,Positive
+7839,Money Control,natural gas,16.02.2015,Natural gas futures rise as more snow hits New England,0.245454545,0.451515152,Positive
+7851,Money Control,natural gas,15.02.2015,Natural gas futures - weekly outlook: February 16 - 20,0.1,0.4,Positive
+7884,Money Control,natural gas,11.02.2015,"According to Sushil Finance, Natural gas prices are expected to trade on positive note on the back of colder than normal temperature forecasts for next few days.",0.025324675,0.299350649,Positive
+7920,Money Control,natural gas,05.02.2015,Natural gas futures hit 32-month low after bearish storage data,0.05,0.35,Positive
+7934,Money Control,natural gas,04.02.2015,"Natural gas futures drop 2% with weather, supplies in focus",0.1,0.4,Positive
+7952,Money Control,natural gas,03.02.2015,Natural gas trades near 28-month low on demand concerns,0.066666667,0.366666667,Positive
+7978,Money Control,natural gas,01.02.2015,Natural gas futures - weekly outlook: February 2 - 6,0.1,0.4,Positive
+7994,Money Control,natural gas,28.01.2015,Natural gas futures drop 2% in aftermath of Northeast blizzard,0.1,0.4,Positive
+8007,Money Control,natural gas,27.01.2015,Natural gas futures climb 3% on Northeast blizzard demand,0.1,0.4,Positive
+8015,Money Control,natural gas,26.01.2015,Natural gas futures drop 3% despite Northeast blizzard,0.1,0.4,Positive
+8018,Money Control,natural gas,25.01.2015,Natural gas futures - weekly outlook: January 26 - 30,0.1,0.4,Positive
+8090,Money Control,natural gas,15.01.2015,Natural gas futures add to gains after bullish storage data,0.1,0.4,Positive
+8103,Money Control,natural gas,14.01.2015,Natural gas futures surge 6% as forecasts turn chilly,-0.25,0.65,Negative
+8117,Money Control,natural gas,13.01.2015,Natural gas futures rebound after hitting 2-year low,0.05,0.35,Positive
+8185,Money Control,natural gas,05.01.2015,Natural gas futures surge 5% on cold weather outlook,-0.25,0.7,Negative
+8197,Money Control,natural gas,02.01.2015,Natural gas eases off 2-year lows on cold weather outlook,-0.25,0.7,Negative
+8210,Money Control,natural gas,30.12.2014,Natural gas re-approaches 2-year lows despite cold weather outlook,-0.25,0.7,Negative
+8241,Money Control,natural gas,23.12.2014,Natural gas hovers near 2-year lows on weather outlook,0.1,0.4,Positive
+8248,Money Control,natural gas,22.12.2014,Natural gas drops to nearly 2-year lows on mild weather,0.177777778,0.433333333,Positive
+8262,Money Control,natural gas,19.12.2014,Natural gas slides as market prices in chilly U.S. weather forecasts,-0.25,0.65,Negative
+8263,Money Control,natural gas,18.12.2014,"Natural gas falls after supply data, weather forecast still supports",0.1,0.4,Positive
+8268,Money Control,natural gas,18.12.2014,Watch the interview of Kunal Shah of Nirmal Bang Commodities with Ekta Batra and Anuj Singhal on CNBC-TV18. He spoke about the current trend in commodities markets.,0,0.4,Neutral
+8273,Money Control,natural gas,17.12.2014,Natural gas gains on forecasts for a chilly end to 2014,-0.25,0.65,Negative
+8280,Money Control,natural gas,17.12.2014,"Karvy believes that, Natural Gas prices may see good volatile behavior in coming sessions however technical analysis supports the bearish view and thus look to the sell NG today, says the report.",0.266666667,0.366666667,Positive
+8285,Money Control,natural gas,16.12.2014,Natural gas falls on milder weather forecasts,0.1,0.4,Positive
+8311,Money Control,natural gas,13.12.2014,Natural gas gains as forecasts point to cooling U.S. weather,0.1,0.4,Positive
+8346,Money Control,natural gas,09.12.2014,Natural gas futures bounce off 13-month low on bargain buying,0.05,0.35,Positive
+8367,Money Control,natural gas,06.12.2014,Natural gas gains as markets price in mild temperatures,0.216666667,0.45,Positive
+8378,Money Control,natural gas,04.12.2014,"Natural gas edges lower on bearish stockpile report, mild U.S. weather",0.216666667,0.45,Positive
+8403,Money Control,natural gas,02.12.2014,Natural gas continues slide on mild U.S. weather forecasts,0.216666667,0.45,Positive
+8432,Money Control,natural gas,30.11.2014,Natural gas futures - weekly outlook: December 1 - 5,0.1,0.4,Positive
+8441,Money Control,natural gas,27.11.2014,Natural gas futures plunge 3% in holiday-thinned trade,0.1,0.4,Positive
+8458,Money Control,natural gas,27.11.2014,Natural gas falls on mild weather forecasts,0.216666667,0.45,Positive
+8460,Money Control,natural gas,26.11.2014,Natural gas futures edge higher ahead of weekly storage data,0.175,0.45,Positive
+8474,Money Control,natural gas,25.11.2014,Natural gas rebounds as market prices in mild temperatures,0.216666667,0.45,Positive
+8488,Money Control,natural gas,24.11.2014,Natural gas futures plunge 5% on mild weather outlook,0.216666667,0.45,Positive
+8500,Money Control,natural gas,23.11.2014,Natural gas futures - weekly outlook: November 24 - 28,0.1,0.4,Positive
+8502,Money Control,natural gas,22.11.2014,Natural gas drops as U.S. thaws after blast of cold air,-0.25,0.7,Negative
+8517,Money Control,natural gas,19.11.2014,Natural gas shoots up on chilly U.S. weather forecasts,-0.25,0.65,Negative
+8518,Money Control,natural gas,19.11.2014,Natural gas futures soar 4% as Artic chill sweeps across U.S.,0.1,0.4,Positive
+8533,Money Control,natural gas,18.11.2014,"Way2Wealth has recommended to sell MCX Natural Gas Nov around Rs 260.40 with a stop loss of Rs 257 for the target price of Rs 265, in its research report dated November 18, 2014.",0.1,0.4,Positive
+8541,Money Control,natural gas,17.11.2014,Natural gas futures soar more than 4% in early trade,0.233333333,0.4,Positive
+8555,Money Control,natural gas,16.11.2014,Natural gas futures - weekly outlook: November 17 - 21,0.1,0.4,Positive
+8571,Money Control,natural gas,13.11.2014,Natural gas futures drop a fourth day on moderating weather,0.05,0.2,Positive
+8600,Money Control,natural gas,10.11.2014,Natural gas dips on forecasts for mild southern U.S. temperatures,0.144444444,0.3,Positive
+8615,Money Control,natural gas,08.11.2014,Natural gas gains as weather forecasts offset bearish supply report,0.1,0.4,Positive
+8624,Money Control,natural gas,06.11.2014,Natural gas futures remain lower after storage data,0.1,0.4,Positive
+8630,Money Control,natural gas,05.11.2014,Natural gas futures rally to 4-month high ahead of storage data,0.13,0.47,Positive
+8641,Money Control,natural gas,05.11.2014,"Natural gas extends gains on cool U.S. weather, supply expectations",0.225,0.525,Positive
+8668,Money Control,natural gas,30.10.2014,Natural gas futures off the highs after bearish storage data,0.1,0.4,Positive
+8683,Money Control,natural gas,29.10.2014,Natural gas futures rise to 1-week high ahead of storage data,0.13,0.47,Positive
+8703,Money Control,natural gas,27.10.2014,Natural gas falls as weather forecasts point to mild U.S. temperatures,0.216666667,0.45,Positive
+8713,Money Control,natural gas,26.10.2014,Natural gas futures - weekly outlook: October 27 - 31,0.1,0.4,Positive
+8716,Money Control,natural gas,24.10.2014,Natural gas dips as weather forecasts stay mild,0.216666667,0.45,Positive
+8721,Money Control,natural gas,23.10.2014,Natural gas moves off earlier highs on mild weather forecasts,0.144444444,0.466666667,Positive
+8722,Money Control,natural gas,23.10.2014,Natural gas hovers near 11-month lows after supply data,0.1,0.4,Positive
+8764,Money Control,natural gas,18.10.2014,Natural gas falls on forecasts for mild U.S. weather,0.216666667,0.45,Positive
+8769,Money Control,natural gas,16.10.2014,"Natural gas falls on U.S. supply report, weather forecasts",0.1,0.4,Positive
+8788,Money Control,natural gas,15.10.2014,Natural gas falls on uncertain weather forecasts,0.1,0.4,Positive
+8806,Money Control,natural gas,13.10.2014,Natural gas gains on cooler U.S. weather forecasts,0.1,0.4,Positive
+8807,Money Control,natural gas,13.10.2014,Natural gas futures edge higher in holiday trade,0.175,0.45,Positive
+8828,Money Control,natural gas,10.10.2014,Natural gas dips on forecasts for mild U.S. autumn weather,0.216666667,0.45,Positive
+8862,Money Control,natural gas,16.09.2014,Natural gas firms on U.S. weather forecasts,0.1,0.4,Positive
+8868,Money Control,natural gas,15.09.2014,Natural gas gains as U.S. weather forecasts heat up,0.1,0.4,Positive
+8882,Money Control,natural gas,14.09.2014,Natural gas futures - weekly outlook: September 15 - 19,0.1,0.4,Positive
+8886,Money Control,natural gas,12.09.2014,Natural gas extend losses but hold steady on U.S. supply report,0.133333333,0.45,Positive
+8907,Money Control,natural gas,09.09.2014,Natural gas rises as weather forecasts call for northern U.S. cool snap,0.225,0.525,Positive
+8909,Money Control,natural gas,09.09.2014,Natural gas futures soar 2% to hit 1-week high on demand hopes,0.13,0.47,Positive
+8914,Money Control,natural gas,08.09.2014,Natural gas post solid gains on bargain hunting,0.05,0.25,Positive
+8915,Money Control,natural gas,08.09.2014,Natural gas futures bounce off 5-week low in early trade,0.066666667,0.333333333,Positive
+8923,Money Control,natural gas,05.09.2014,Natural gas edges lower on forecasts for cooler U.S. weather,0.1,0.4,Positive
+8927,Money Control,natural gas,04.09.2014,Natural gas takes a dive on bearish weekly U.S. stockpile report,0.1,0.4,Positive
+8936,Money Control,natural gas,03.09.2014,"Natural gas falls to 2-week low with weather, supplies in focus",0.05,0.35,Positive
+8945,Money Control,natural gas,02.09.2014,Natural gas prices drop on forecasts for cooler weather,0.1,0.4,Positive
+8960,Money Control,natural gas,28.08.2014,Natural gas dips as weather forecasts throttle back on heat wave calls,0.05,0.2,Positive
+8970,Money Control,natural gas,27.08.2014,"Natural gas gains on weather forecasts, supply uncertainty",0.1,0.4,Positive
+8979,Money Control,natural gas,26.08.2014,"Natural gas up in choppy trading on weather forecasts, supply doubts",-0.05,0.3,Negative
+8980,Money Control,natural gas,26.08.2014,Natural gas futures rise to 2-week high on demand outlook,0.13,0.47,Positive
+8999,Money Control,natural gas,24.08.2014,Natural gas futures - weekly outlook: August 25 - 29,0.1,0.4,Positive
+9010,Money Control,natural gas,21.08.2014,Natural gas takes back losses from bearish weekly U.S. inventory data,0.05,0.2,Positive
+9011,Money Control,natural gas,21.08.2014,Natural gas futures turn lower after bearish storage data,0.1,0.4,Positive
+9026,Money Control,natural gas,20.08.2014,"Natural gas falls on profit taking, eyes storage data",0.1,0.4,Positive
+9039,Money Control,natural gas,19.08.2014,Natural gas post strong gains on warmer weather forecasts,0.266666667,0.566666667,Positive
+9055,Money Control,natural gas,17.03.2014,Natural gas prices shoot up on chilly spring forecast,-0.25,0.65,Negative
+9076,Money Control,natural gas,13.03.2014,"Angel Commodities has come out with its special technical report on MCX Natural Gas. According to the research firm, one can sell MCX Natural Gas March contract between Rs 283â€“288 with a stop loss of Rs 305 for the target price of Rs 255 / 250.",0.071428571,0.374285714,Positive
+9096,Money Control,natural gas,11.03.2014,Natural gas prices slide as market preps for spring's arrival,0.1,0.4,Positive
+9111,Money Control,natural gas,10.03.2014,Natural gas prices gain on bottom fishing as market looks to spring,0.1,0.4,Positive
+9130,Money Control,natural gas,06.03.2014,Natural gas prices spike on bullish supply report,0.1,0.4,Positive
+9182,Money Control,natural gas,02.03.2014,Natural gas futures - weekly outlook: March 3 - 7,0.1,0.4,Positive
+9194,Money Control,natural gas,28.02.2014,Natural gas rebounds on demand from bargain hunters,0.1,0.4,Positive
+9202,Money Control,natural gas,26.02.2014,ï»¿Natural gas futures plunge further ahead of March contract expiration,0,0.5,Neutral
+9230,Money Control,natural gas,25.02.2014,Natural gas plummets on forecasts for mild U.S. weather,0.216666667,0.45,Positive
+9269,Money Control,natural gas,19.02.2014,Natural gas futures rally 7% to hit 4-year high,0.13,0.47,Positive
+9276,Money Control,natural gas,19.02.2014,"Geojit Comtrade has come out with its report on metals and energy. According to the research firm, one can buy MCX Natural Gas February around Rs 352 levels with a stop loss below Rs 348 for the target price of Rs 360.",-0.05,0.4,Negative
+9284,Money Control,natural gas,18.02.2014,Natural gas futures rally more than 4% in early trade,0.233333333,0.4,Positive
+9297,Money Control,natural gas,17.02.2014,Natural gas futures advance 4% to extend last week's rally,0.05,0.233333333,Positive
+9308,Money Control,natural gas,16.02.2014,Natural gas futures - weekly outlook: February 17 - 21,0.1,0.4,Positive
+9311,Money Control,natural gas,15.02.2014,Natural gas extends gains on bullish supply report,0.1,0.4,Positive
+9321,Money Control,natural gas,13.02.2014,Natural gas surges over 6% up on bullish supply report,0.1,0.4,Positive
+9336,Money Control,natural gas,12.02.2014,Natural gas prices higher as yet another winter storm looms,0.175,0.45,Positive
+9359,Money Control,natural gas,10.02.2014,Natural gas falls on calls for warmer temperatures across the U.S.,0.1,0.4,Positive
+9370,Money Control,natural gas,09.02.2014,Natural gas futures - weekly outlook: February 10 - 14,0.1,0.4,Positive
+9372,Money Control,natural gas,07.02.2014,Natural gas extends losses on U.S. thawing trend,0.1,0.4,Positive
+9377,Money Control,natural gas,07.02.2014,Natural gas fall on bearish U.S. supply report,0.1,0.4,Positive
+9378,Money Control,natural gas,06.02.2014,Natural gas futures trim gains after bearish supply data,0.1,0.4,Positive
+9395,Money Control,natural gas,05.02.2014,Natural gas futures turn lower after hitting 4-year high,0.13,0.47,Positive
+9423,Money Control,natural gas,03.02.2014,Natural gas futures decline for third day with weather outlook in focus,0.05,0.2,Positive
+9438,Money Control,natural gas,31.01.2014,Natural gas falls on reports of U.S. warming trend,0.1,0.4,Positive
+9449,Money Control,natural gas,30.01.2014,Natural gas falls hard as U.S. supply report disappoints,-0.095833333,0.470833333,Negative
+9450,Money Control,natural gas,30.01.2014,Natural gas futures plunge 6% after U.S. supply data,0.1,0.4,Positive
+9465,Money Control,natural gas,30.01.2014,Natural gas firms on hopes for bullish U.S. supply report,0.1,0.4,Positive
+9482,Money Control,natural gas,28.01.2014,Natural gas futures resume rally after Monday's rout,0.1,0.4,Positive
+9509,Money Control,natural gas,24.01.2014,Natural gas hits 4-year highs on icy U.S. weather forecasts,0,0.25,Neutral
+9532,Money Control,natural gas,23.01.2014,Natural gas prices soar as powerful winter storm pummels eastern U.S.,0.2,0.7,Positive
+9541,Money Control,natural gas,22.01.2014,"Sharekhan has come out with its report on Natural gas. ""Recently the gas formed a minor degree pullback and has started the next leg down. Natural gas can fall back towards the low of 245.40. The reversal can be trailed to 276.70,"" says the research firm.",-0.022839506,0.248765432,Negative
+9546,Money Control,natural gas,21.01.2014,Natural gas prices shoot up on return of chilly U.S. weather,-0.25,0.65,Negative
+9587,Money Control,natural gas,16.01.2014,Natural gas futures off the highs after U.S. supply data,0.1,0.4,Positive
+9602,Money Control,natural gas,15.01.2014,Natural gas posts fresh gains on expectations for bullish supply report,0.2,0.45,Positive
+9604,Money Control,natural gas,15.01.2014,Natural gas futures rally into fourth session with supply data in focus,0.05,0.2,Positive
+9617,Money Control,natural gas,15.01.2014,Natural gas futures extend gains on expectations for bullish supply data,0.1,0.4,Positive
+9628,Money Control,natural gas,14.01.2014,Natural gas futures soar on expectations for bullish supply data,0.1,0.4,Positive
+9641,Money Control,natural gas,11.01.2014,"Natural gas futures gain on weather forecasts, supply concerns",0.1,0.4,Positive
+9656,Money Control,natural gas,09.01.2014,"Natural gas futures drop on supply report, weather forecasts",0.1,0.4,Positive
+9657,Money Control,natural gas,09.01.2014,Natural gas futures remain lower after U.S. supply data,0.1,0.4,Positive
+9660,Money Control,natural gas,09.01.2014,"Way2Wealth has come out with its report on Natural Gas. The research firm has recommended to sell MCX Natural Gas at Rs 260 in its research report dated January 09, 2014.",0,0.4,Neutral
+9670,Money Control,natural gas,08.01.2014,Natural gas futures fall on forecasts for return of mild U.S. weather,0.216666667,0.45,Positive
+9671,Money Control,natural gas,08.01.2014,"Natural gas futures fluctuate with mild weather, supply data in focus",0.216666667,0.45,Positive
+9696,Money Control,natural gas,06.01.2014,Natural gas dips as forecasts point to U.S. warming trend,0.1,0.4,Positive
+9714,Money Control,natural gas,04.01.2014,"Natural gas gains on chilly U.S. weather, shrugs off inventory data",-0.25,0.65,Negative
+9725,Money Control,natural gas,03.01.2014,Natural gas shoots up as powerful winter storm blasts U.S.,0.2,0.7,Positive
+9726,Money Control,natural gas,02.01.2014,Natural gas prices rally 2% as major winter storm heads for Northeast,0.08125,0.45,Positive
+9757,Money Control,natural gas,30.12.2013,Natural gas prices rally 2% with cold weather in focus,-0.25,0.7,Negative
+9801,Money Control,natural gas,23.12.2013,Natural gas futures rally to highest since July 2011,0.1,0.4,Positive
+9803,Money Control,natural gas,23.12.2013,"Long term price outlook looks positive as strong fundamental for natural gas. Prices highly depend on demand and inventory and U.S. winter season is more favorable for natural gas prices, decreasing inventory and collar weather in U.S. support the prices for natural gas, says Fortune Financial Services.",0.174511785,0.435420875,Positive
+9834,Money Control,natural gas,19.12.2013,Natural gas soars to 2-1/2 year highs on bullish U.S. inventory report,0.1,0.4,Positive
+9849,Money Control,natural gas,18.12.2013,"Geojit Comtrade has come out with its report on metals and energy. According to the research firm, one can buy MCX Natural Gas December around Rs 267 levels with a stop loss placed below Rs 263 levels for target of Rs 275.",-0.05,0.4,Negative
+9861,Money Control,natural gas,17.12.2013,Natural gas extends losses on forecasts for brief U.S. warming trend,0.05,0.366666667,Positive
+9890,Money Control,natural gas,15.12.2013,Natural gas futures - weekly outlook: December 16 - 20,0.1,0.4,Positive
+9907,Money Control,natural gas,12.12.2013,"Natural gas moves off 7-month high on data, weather supports",0.13,0.47,Positive
+9922,Money Control,natural gas,11.12.2013,Natural gas prices extend gains on wintry U.S. weather,0.1,0.4,Positive
+9936,Money Control,natural gas,10.12.2013,Natural gas prices hold on to highs on frigid U.S. forecast,-0.4,0.7,Negative
+9951,Money Control,natural gas,09.12.2013,Natural gas prices rally to 6-month high on freezing U.S. weather,0.13,0.47,Positive
+9961,Money Control,natural gas,06.12.2013,"Natural gas prices extend gains on stockpiles data, weather forecasts",0.1,0.4,Positive
+9986,Money Control,natural gas,04.12.2013,"Natural gas prices rise with cold weather, supply data in focus",-0.25,0.7,Negative
+10030,Money Control,natural gas,01.12.2013,Natural gas futures - weekly outlook: December 2 - 6,0.1,0.4,Positive
+10045,Money Control,natural gas,28.11.2013,Natural gas futures rally to 5-month high in holiday-trade,0.13,0.47,Positive
+10056,Money Control,natural gas,28.11.2013,Natural gas gains on hopes for bullish supply report,0.1,0.4,Positive
+10058,Money Control,natural gas,27.11.2013,Natural gas futures fluctuate near 5-month high ahead of supply data,0.12,0.446666667,Positive
+10059,Money Control,natural gas,27.11.2013,"Natural gas could test the levels of USD 4-4.1/MMBtu on NYMEX and Rs 258-60/MMBtu on MCX in the coming months. Hence, any dip towards USD 3.7/MMBtu on NYMEX and Rs. 238/MMBtu on MCX should be considered as a good buying opportunity, says Nirmal Bang.",0.4,0.5,Positive
+10068,Money Control,natural gas,26.11.2013,"Natural gas falls on weather reports, holiday demand concerns",0.1,0.4,Positive
+10069,Money Control,natural gas,26.11.2013,Natural gas futures trade near 5-month high on wintry U.S. weather,0.12,0.446666667,Positive
+10095,Money Control,natural gas,22.11.2013,Natural gas gains on forecasts for blast of wintry weather,0.1,0.4,Positive
+10120,Money Control,natural gas,20.11.2013,Natural gas soars as weather models intensify chilly forecasts,-0.25,0.65,Negative
+10134,Money Control,natural gas,19.11.2013,Natural gas futures lower for second day despite cool weather,0.15,0.35,Positive
+10148,Money Control,natural gas,18.11.2013,Natural gas futures hit 4-week high on chilly weather,-0.113333333,0.613333333,Negative
+10160,Money Control,natural gas,15.11.2013,Natural gas rises as weather forecasts point to chilly U.S. temperatures,-0.25,0.65,Negative
+10185,Money Control,natural gas,12.11.2013,Natural gas makes fresh gains on cold U.S. weather forecasts,-0.066666667,0.633333333,Negative
+10200,Money Control,natural gas,11.11.2013,Natural gas gains on chilly U.S. weather forecasts,-0.25,0.65,Negative
+10201,Money Control,natural gas,11.11.2013,"Natural gas futures waver as traders monitor weather, supplies",0.1,0.4,Positive
+10212,Money Control,natural gas,10.11.2013,Natural gas futures - weekly outlook: November 11 - 15,0.1,0.4,Positive
+10216,Money Control,natural gas,08.11.2013,Natural gas gains as forecasts point to chilly U.S. temperatures,-0.25,0.65,Negative
+10246,Money Control,natural gas,06.11.2013,"Natural gas futures inch higher with weather, supply data in focus",0.175,0.45,Positive
+10260,Money Control,natural gas,05.11.2013,Natural gas trades at lowest since August on mild November weather,0.216666667,0.45,Positive
+10280,Money Control,natural gas,03.11.2013,Natural gas futures - weekly outlook: Nov. 4 - 8,0.1,0.4,Positive
+10312,Money Control,natural gas,30.10.2013,"Natural gas futures fluctuate with weather, supplies in focus",0.1,0.4,Positive
+10322,Money Control,natural gas,30.10.2013,Natural gas prices fall on mild weather forecasts,0.216666667,0.45,Positive
+10325,Money Control,natural gas,29.10.2013,Natural gas futures edge lower as mild weather forecasts weigh,0.216666667,0.45,Positive
+10339,Money Control,natural gas,28.10.2013,Natural gas prices fall as forecasts callfor U.S. warming trend,0.1,0.4,Positive
+10340,Money Control,natural gas,28.10.2013,Natural gas tumbles on forecast for warmer weather,0.1,0.4,Positive
+10365,Money Control,natural gas,24.10.2013,Natural gas gains despite sluggish supply report,0.1,0.4,Positive
+10366,Money Control,natural gas,24.10.2013,Natural gas futures erase losses after U.S. supply data,0.1,0.4,Positive
+10454,Money Control,natural gas,15.10.2013,Natural gas drops as market looks past falling temperatures,-0.075,0.325,Negative
+10465,Money Control,natural gas,14.10.2013,Natural gas futures rise to 4-month high on colder weather outlook,0.13,0.47,Positive
+10482,Money Control,natural gas,11.10.2013,"Natural gas prices gain on bullish supply report, cold weather forecasts",-0.25,0.7,Negative
+10497,Money Control,natural gas,10.10.2013,Natural gas prices gain on bullish supply report,0.1,0.4,Positive
+10498,Money Control,natural gas,10.10.2013,Natural gas futures rally to 3-week high after bullish U.S. supply data,0.13,0.47,Positive
+10541,Money Control,natural gas,07.10.2013,Natural gas futures rally 3% on warmer weather outlook,0.1,0.4,Positive
+10556,Money Control,natural gas,06.10.2013,Natural gas futures - Weekly review: Sept. 30 - Oct. 4,0.1,0.4,Positive
+10561,Money Control,natural gas,04.10.2013,Natural gas prices gain as tropical storm bears down on Gulf Coast,-0.027777778,0.344444444,Negative
+10569,Money Control,natural gas,03.10.2013,Natural gas futures decline after bearish U.S. supply data,0.1,0.4,Positive
+10583,Money Control,natural gas,02.10.2013,"Natural gas futures fluctuate with storm activity, stockpiles in focus",0.1,0.4,Positive
+10603,Money Control,natural gas,30.09.2013,Natural gas futures drop 2% as mild U.S. weather weighs,0.216666667,0.45,Positive
+10615,Money Control,natural gas,29.09.2013,Natural gas futures - Weekly review: September 23 - 27,0.1,0.4,Positive
+10662,Money Control,natural gas,23.09.2013,Natural gas prices fall on forecasts for seasonably mild temperatures,0.216666667,0.45,Positive
+10663,Money Control,natural gas,23.09.2013,Natural gas futures fall to 1-week low on reduced demand outlook,0.05,0.35,Positive
+10680,Money Control,natural gas,20.09.2013,Natural gas prices dip with arrival of fall in northern hemisphere,0.1,0.4,Positive
+10693,Money Control,natural gas,19.09.2013,"Natural gas prices shrug off soft supply data, dip on weather forecasts",0.1,0.375,Positive
+10734,Money Control,natural gas,16.09.2013,Natural gas futures rally to 8-week high with storm activity in focus,0.13,0.47,Positive
+10743,Money Control,natural gas,15.09.2013,Natural gas futures - Weekly review: September 9 - 13,0.1,0.4,Positive
+10746,Money Control,natural gas,13.09.2013,Natural gas extends gains on bullish U.S. supply data,0.1,0.4,Positive
+10760,Money Control,natural gas,12.09.2013,Natural gas surges on surprisingly bullish U.S. supply data,0.4,0.45,Positive
+10761,Money Control,natural gas,12.09.2013,Natural gas futures rally 2% after bullish U.S. supply data,0.1,0.4,Positive
+10809,Money Control,natural gas,08.09.2013,Natural gas futures - Weekly review: September 2 - 6,0.1,0.4,Positive
+10813,Money Control,natural gas,06.09.2013,"Natural gas dips on U.S. supply data, quiet weather in tropics",0.05,0.366666667,Positive
+10821,Money Control,natural gas,05.09.2013,Natural gas prices drop as U.S. stockpiles make unexpected gain,0.1,0.7,Positive
+10835,Money Control,natural gas,04.09.2013,Natural gas prices ease off gains from U.S. warming trend,0.1,0.4,Positive
+10857,Money Control,natural gas,03.09.2013,"Natural gas prices climb on U.S. warming trend, tropical storm potential",0.05,0.7,Positive
+10876,Money Control,natural gas,02.09.2013,Natural gas futures rally to 6-week high in thin Labor Day trade,-0.046666667,0.596666667,Negative
+10892,Money Control,natural gas,01.09.2013,Natural gas futures - Weekly outlook: September 2 - 6,0.1,0.4,Positive
+10896,Money Control,natural gas,30.08.2013,Natural gas prices extend declines on bearish U.S. inventory figures,0.1,0.4,Positive
+10911,Money Control,natural gas,29.08.2013,Natural gas futures erase gains after bearish U.S. supply data,0.1,0.4,Positive
+10946,Money Control,natural gas,27.08.2013,"Natural gas prices falls on cooler forecasts, contract expiration",0.1,0.4,Positive
+10947,Money Control,natural gas,27.08.2013,Natural gas futures decline ahead of September contract expiration,0.1,0.4,Positive
+10963,Money Control,natural gas,26.08.2013,Natural gas prices wane from 4-week high but find support on weather,0.13,0.47,Positive
+10980,Money Control,natural gas,23.08.2013,"Natural gas prices drop on profit taking, cool weather forecasts",0.225,0.525,Positive
+10988,Money Control,natural gas,23.08.2013,"Nirmal Bang has come out with its fundamental outlook on natural gas. According to the research firm, prices are expected to remain supportive on expectations of warmer weather conditions in the US.",0.075,0.55,Positive
+10995,Money Control,natural gas,22.08.2013,Natural gas prices gain as inventory report points to strong demand,0.266666667,0.566666667,Positive
+11007,Money Control,natural gas,21.08.2013,"Natural gas trades near 3-week high with weather, supplies in focus",0.12,0.446666667,Positive
+11039,Money Control,natural gas,19.08.2013,Natural gas prices shoot up as forecasts point to warming trend,0.1,0.4,Positive
+11093,Money Control,natural gas,13.08.2013,"Natural gas prices dip on profit taking, weather forecasts support",0.1,0.4,Positive
+11107,Money Control,natural gas,13.08.2013,"N Prasad of Safetrade Advisors advocates buying MCX crude. Prasad says, ""Keep a stop loss for this trade at Rs 6,430 per barrel for a target is of Rs 6,560 per barrel"".",-0.7,1,Negative
+11110,Money Control,natural gas,12.08.2013,Natural gas prices soar as weather forecasts heat up,0.1,0.4,Positive
+11112,Money Control,natural gas,12.08.2013,Natural gas futures rally more than 3% as weather turns warmer,0.3,0.45,Positive
+11130,Money Control,natural gas,11.08.2013,Natural gas futures - Weekly outlook: August 12 - 16,0.1,0.4,Positive
+11134,Money Control,natural gas,08.08.2013,Natural gas bounces back from earlier losses stemming from supply data,0.033333333,0.3,Positive
+11158,Money Control,natural gas,06.08.2013,Natural gas trades sideways on forecasts for warmer temps in U.S. plains,0.1,0.4,Positive
+11159,Money Control,natural gas,06.08.2013,Natural gas hits fresh 5-month low as weather outlook weighs,0.133333333,0.4,Positive
+11178,Money Control,natural gas,05.08.2013,Natural gas trades at lowest since February on weather outlook,0.1,0.4,Positive
+11191,Money Control,natural gas,04.08.2013,Natural gas futures - Weekly outlook: August 5 - 9,0.1,0.4,Positive
+11194,Money Control,natural gas,02.08.2013,"Natural gas prices extend losses on supply data, weather forecasts",0.1,0.4,Positive
+11210,Money Control,natural gas,01.08.2013,Natural gas futures tumble to 5-month low after U.S. supply data,0.05,0.35,Positive
+11231,Money Control,natural gas,31.07.2013,Natural gas futures bounce off 5-month low on bargain buying,0.05,0.35,Positive
+11238,Money Control,natural gas,31.07.2013,"According to Sushil Finance, the Natural gas prices are expected to trade on the negative note on the back of mild weather forecast, as it may slow down the demand for air conditioning.",-0.06031746,0.341269841,Negative
+11244,Money Control,natural gas,30.07.2013,Natural gas prices fall as milder summer temperatures move over U.S.,0.1,0.4,Positive
+11262,Money Control,natural gas,29.07.2013,Natural gas prices extend hefty losses on forecasts for mild summer temp,0.216666667,0.45,Positive
+11298,Money Control,natural gas,25.07.2013,Natural gas prices dip as weather forecasts call for mild temperatures,0.216666667,0.45,Positive
+11299,Money Control,natural gas,25.07.2013,Natural gas futures fall after U.S. supply data,0.1,0.4,Positive
+11357,Money Control,natural gas,22.07.2013,Natural gas prices fall as weather forecasts see break in heat wave,0.1,0.4,Positive
+11358,Money Control,natural gas,22.07.2013,Natural gas futures plunge 4% as temperatures moderate,0.05,0.55,Positive
+11377,Money Control,natural gas,21.07.2013,Natural gas futures - Weekly outlook: July 22 - 26,0.1,0.4,Positive
+11390,Money Control,natural gas,18.07.2013,Natural gas futures surge 4% after U.S. supply data,0.1,0.4,Positive
+11409,Money Control,natural gas,17.07.2013,"Natural gas futures fall 1% with supply data, weather in focus",0.1,0.4,Positive
+11420,Money Control,natural gas,16.07.2013,Natural gas futures lower in U.S. trade,0.1,0.4,Positive
+11431,Money Control,natural gas,16.07.2013,"Nirmal Bang has come out with its technical outlook on Natural Gas. ""Expect the Natural Gas prices may see a bounce back of Rs 4-5 in the coming days. One can sell August contract between Rs 216-20 with a stop loss below Rs 232.5 on a daily closing basis for the target of Rs 195-190 in the coming weeks,"" says NBang.",0.04,0.18,Positive
+11436,Money Control,natural gas,15.07.2013,Natural gas prices drop as weather forecasts point to cooling trend,0.1,0.4,Positive
+11467,Money Control,natural gas,11.07.2013,Natural gas prices drop as supplies rise in line with expectations,0.1,0.4,Positive
+11478,Money Control,natural gas,10.07.2013,Natural gas prices gain as weather models call for warming trend,0.1,0.4,Positive
+11506,Money Control,natural gas,08.07.2013,Natural gas prices soar as forecasts point to return of hot weather,0.175,0.625,Positive
+11507,Money Control,natural gas,08.07.2013,Natural gas jumps 3% to hit 2-week high on warm weather forecasts,0.286666667,0.513333333,Positive
+11530,Money Control,natural gas,05.07.2013,Natural gas prices drop as weather models point to moderate temperatures,0.05,0.55,Positive
+11550,Money Control,natural gas,04.07.2013,Natural gas futures little changed in holiday-thinned trade,-0.04375,0.45,Negative
+11571,Money Control,natural gas,03.07.2013,Natural gas futures tumble 2% ahead of U.S. supply report,0.1,0.4,Positive
+11603,Money Control,natural gas,01.07.2013,"Natural gas gains on weather forecasts, weekly supply data weighs",0.1,0.4,Positive
+11613,Money Control,natural gas,01.07.2013,"Commodity experts are upbeat on crude and natural gas, they advise buying them. However, they are not so bullish on copper, hence suggest selling it.",-0.3,0.7,Negative
+11618,Money Control,natural gas,30.06.2013,Natural gas futures - Weekly outlook: July 1 - 5,0.1,0.4,Positive
+11625,Money Control,natural gas,28.06.2013,"Natural gas extends losses on rising inventories, mild weather forecasts",0.216666667,0.45,Positive
+11639,Money Control,natural gas,27.06.2013,Natural gas plunges 4% to hit 16-week low after U.S. supply data,0.05,0.35,Positive
+11653,Money Control,natural gas,26.06.2013,Natural gas rebounds as market looks past mild U.S. temperatures,0.061111111,0.383333333,Positive
+11671,Money Control,natural gas,25.06.2013,Natural gas drops as weather forecasts point to cooler U.S. temperatures,0.1,0.4,Positive
+11690,Money Control,natural gas,24.06.2013,Natural gas extends losses on rising U.S. inventory levels,0.1,0.4,Positive
+11691,Money Control,natural gas,24.06.2013,Natural gas futures fluctuate with weather outlook in focus,0.1,0.4,Positive
+11708,Money Control,natural gas,23.06.2013,Natural gas futures - Weekly outlook: June 24 - 28,0.1,0.4,Positive
+11711,Money Control,natural gas,22.06.2013,Natural gas extends losses on rising U.S. inventory levels,0.1,0.4,Positive
+11733,Money Control,natural gas,20.06.2013,Natural gas drops as U.S. supplies rise more than expected,0.166666667,0.433333333,Positive
+11753,Money Control,natural gas,19.06.2013,Natural gas futures rally to 2-week high on warm weather forecasts,0.286666667,0.513333333,Positive
+11765,Money Control,natural gas,19.06.2013,"Sugandha Sachdeva of Religare Commodities recommends selling gold on MCX. ""Maintain a stop loss for this trade at Rs 28,350 per 10gm for a target of Rs 27,600 per 10gm"", Shah adds.",0,0,Neutral
+11770,Money Control,natural gas,18.06.2013,Natural gas futures extend weather-driven rally to hit 2-week high,0.13,0.47,Positive
+11786,Money Control,natural gas,17.06.2013,Natural gas futures rally 3% on warm weather forecasts,0.35,0.5,Positive
+11804,Money Control,natural gas,16.06.2013,Natural gas futures - Weekly outlook: June 17 - 21,0.1,0.4,Positive
+11816,Money Control,natural gas,13.06.2013,Natural gas futures turn higher after U.S. supply data,0.175,0.45,Positive
+11830,Money Control,natural gas,12.06.2013,Natural gas prices gain ahead of Thursday's supply data,0.1,0.4,Positive
+11832,Money Control,natural gas,12.06.2013,Natural gas futures bounce off 3-month low with supply data in focus,0.05,0.35,Positive
+11852,Money Control,natural gas,11.06.2013,Natural gas dips as weather forecasts point to mild temperatures,0.216666667,0.45,Positive
+11901,Money Control,natural gas,06.06.2013,Natural gas plummets as supplies far exceed expectations,0.1,0.7,Positive
+11921,Money Control,natural gas,05.06.2013,"Natural gas gains on weather reports, keeps cautious eye on supply data",0.1,0.4,Positive
+11925,Money Control,natural gas,05.06.2013,Natural gas futures little changed in early trade,0.004166667,0.4,Positive
+11926,Money Control,natural gas,05.06.2013,"Geojit Comtrade has come out with its report on metals and energy. According to the research firm, one can buy MCX Natural Gas June around Rs 226 levels with a stop loss below Rs 223 for target of Rs 232.",-0.05,0.4,Negative
+11939,Money Control,natural gas,04.06.2013,Natural gas futures edge higher in early trade; USD4-level in focus,0.15,0.4,Positive
+11941,Money Control,natural gas,04.06.2013,"Geojit Comtrade has come out with its report on metals and energy. According to the research firm, one can buy MCX Natural Gas June around Rs 225 levels with a stop loss below Rs 222 for target of Rs 232.",-0.05,0.4,Negative
+11960,Money Control,natural gas,03.06.2013,Natural gas futures bounce off 2-week low to climb above USD4-level,0.033333333,0.266666667,Positive
+11976,Money Control,natural gas,02.06.2013,Natural gas futures - Weekly outlook: June 3 - 7,0.1,0.4,Positive
+11992,Money Control,natural gas,31.05.2013,Natural gas drops as supplies rise in line with expectations,0.1,0.4,Positive
+12011,Money Control,natural gas,29.05.2013,"Natural gas drops as June contract expires, weather forecasts weigh",0.1,0.4,Positive
+12012,Money Control,natural gas,29.05.2013,Natural gas futures under pressure ahead of contract expiration,0.1,0.4,Positive
+12032,Money Control,natural gas,28.05.2013,Natural gas declines as investors prep for contract expiration,0.1,0.4,Positive
+12053,Money Control,natural gas,27.05.2013,Natural gas futures rally to 4-week high in thin holiday trade,-0.046666667,0.596666667,Negative
+12073,Money Control,natural gas,26.05.2013,Natural gas futures - Weekly outlook: May 27 - 31,0.1,0.4,Positive
+12076,Money Control,natural gas,24.05.2013,"Natural gas declines as investors take profits, weather weighs",0.1,0.4,Positive
+12267,Money Control,natural gas,10.05.2013,"Sumeet Bagadia of Destimoney Commodities suggests selling crude MCX around Rs 5,250-5,260 per barrel. ""Maintain a stop loss for this trade at Rs 5,310 per barrel for an initial target of Rs 5,180 per barrel followed by Rs 5,100 per barrel"", Bagadia adds.",-0.35,0.5,Negative
+12401,Money Control,natural gas,26.04.2013,Renisha Chainani of Edelweiss suggests buying copper around Rs 385 per kilogram with stop loss of Rs 380 per kilogram and target of Rs 390-395 per kilogram on the higher side.,0.25,0.5,Positive
+12415,Money Control,natural gas,25.04.2013,"Ventura Commodities has come out with its special report on natural gas. The oil and gas industry have suggested that natural gas prices could rise sharply in coming years, says the research firm.",0.046428571,0.504285714,Positive
+12420,Money Control,natural gas,25.04.2013,Ram Pitre of Anand Rathi Commodities advises buying MCX nickel at Rs 850 per kilogram for an upside target of Rs 825-830 per kilogram with a stop loss at Rs 810 per kilogram.,0,0,Neutral
+12750,Money Control,natural gas,26.03.2013,"Sharekhan has come out with its report on Natural Gas. According to the research firm, it has a potential to form a double top pattern. Once the lower channel line of Rs 211 is broken, it can fall till Rs 204.5-198.",0,0.45,Neutral
+12770,Money Control,natural gas,25.03.2013,"Way2Wealth has come out with its report on MCX Natural Gas, silver, Aluminium and Zinc. According to the research firm, one needs to be cautious in MCX Natural Gas right now on long side. Any fresh positions on long side from hereon should be above Rs 219 levels only.",0.053968254,0.45952381,Positive
+12798,Money Control,natural gas,21.03.2013,Karvy Commodities Broking has come out with its report on Crude Oil and Natural Gas. The research firm has suggested to remain on selling side for the day.,-0.266666667,0.6,Negative
+12811,Money Control,natural gas,20.03.2013,"Geojit Comtrade has come out with its technical report on Gold, Silver, Crude, Natural Gas, Copper, Nickel, Lead, Zinc and Aluminium. According to the research firm, one can sell MCX Natural Gas March around Rs 215 levels with a stop loss above Rs 217 levels for a target of Rs 210 levels.",-0.116666667,0.4,Negative
+12890,Money Control,natural gas,13.03.2013,"NS Ramaswamy of Ventura Securities advises buying gold above Rs 29,450 per 10gm with targets of Rs 29,600 per 10gm and Rs 29,650 per 10gm with a stop loss of Rs 29,300 per 10gm.",0,0.1,Neutral
+12926,Money Control,natural gas,11.03.2013,"Way2Wealth has come out with its technical report on MCX Natural Gas, Aluminium and Zinc. According to the research firm, Natural Gas near-term outlook remains positive as long as the prices hold above Rs 170 levels, on sustainable break of the same will extend towards Rs 214 eventually.",0.022159091,0.308806818,Positive
+12998,Money Control,natural gas,02.03.2013,"Continuous increase in domestic production of shale oil and gas in the US has resulted in oversupplied market conditions, lowering the prices of this commodity, says Nirmal Bang research report.",0,0.1,Neutral
+13037,Money Control,natural gas,26.02.2013,"Sumeet Bagadia of Destimoney Commodities advises buying MCX gold at Rs 29,550 per 10gm. He says, ""Place a stop loss at Rs 29,400 per 10gm on the lower side for an upside target of Rs 29,700 per 10gm. If prices are able to break and give close to Rs 29,700 per 10gm then further upside rally can be seen till Rs 29,800 per 10gm in next one-two days"".",0.166666667,0.375,Positive
+13075,Money Control,natural gas,21.02.2013,"GEPL Capital has come out with its report on bullions, base metal and energy. According to the research firm MCX Natural Gas February Future has support at Rs 176-176 and resistance at 180-183.",-0.225,0.48125,Negative
+13288,Money Control,natural gas,01.02.2013,"Geojit Comtrade has come out with its report on precious metal, base metal, Natural Gas and Crude Oil. According to the research firm, one can buy MCX Natural Gas February contract around Rs 177 with a stoploss below Rs 174 for a target of Rs 182.",-0.166666667,0.7,Negative
+13330,Money Control,natural gas,29.01.2013,"Fortune Financial Services has come out with its report on Gold, Silver, Natural Gas and Crude Oil. According to the research firm, one can sell MCX Natural Gas February future around Rs 181 with a stoploss of Rs 184 for a target of Rs 176-173.",-0.116666667,0.3875,Negative
+13360,Money Control,natural gas,24.01.2013,"Sharekhan has come out with its report on Natural Gas. According to the research firm, Natural Gas is expected to head up till Rs199.5-207 that is the 61.8% and 78.6% retracement mark respectively.",-0.02,0.34,Negative
+13433,Money Control,natural gas,18.01.2013,"Sharekhan has come out with its report on Natural Gas. According to the research firm, in the last session, Natural gas formed a bullish outside bar. The daily momentum indicator is in a bullish mode. Thus, unless the 20-daily moving average (182.8) is broken, the gas is expected to head up till Rs 199.5â€“207.",-0.072222222,0.27962963,Negative
+13437,Money Control,natural gas,18.01.2013,"Geojit Comtrade has come out with its report on base metal, precious metal, Crude Oil and Natural Gas. According to the research firm, one can buy MCX Natural Gas January future around Rs 189 with a stoploss below Rs 186 for a target of Rs 194.",-0.142857143,0.617857143,Negative
+13462,Money Control,natural gas,17.01.2013,"Hitesh Jain of India Infoline Link advocates buying crude MCX January contract at Rs 5,140 per barrel. Jain adds, ""Maintain a stop loss for this trade at Rs 5,090 per barrel for upside target of Rs 5,210 per barrel.""",-0.7,1,Negative
+13550,Money Control,natural gas,09.01.2013,"Karvy Commodities Broking has come out with its report on Crude Oil and Natural Gas.  The research firm expects Natural Gas prices to remain in a negative trend on concern of higher supply, whereas mild weather is putting a cap in consumption pattern.",-0.05952381,0.514285714,Negative
+13611,Money Control,natural gas,03.01.2013,"Emkay Commodity Research has come out with its report on precious metals, base metals and energy. According to the research firm, Natural Gas prices expected to go further down as moderate weather would lower the heating demand for natural gas.",-0.061728395,0.565432099,Negative
+13651,Money Control,natural gas,31.12.2012,"Way2Wealth has come out with its special report on commodities. According to the research firm, one can buy MCX Natural Gas January futures around Rs 190 with a stop-loss of Rs 184.80 for the target of Rs 205.",0.085714286,0.457142857,Positive
+13766,Money Control,natural gas,17.12.2012,"Dipen Shah of stayvan.com advises selling crude on MCX at Rs 4,740 per barrel. ""Maintain a stop loss for this trade at Rs 4,770 per barrel for targets of Rs 4,680-4,640 per barrel,"" Shah adds.",-0.7,1,Negative
+13966,Money Control,natural gas,26.11.2012,"Way2Wealth has come out with its report on Natural Gas and Copper. According to the research firm, one can buy MCX Natural Gas Dec around Rs 216-215 with a stop-loss of Rs 209 for the target of Rs 216-215.",0,0.4,Neutral
+14239,Money Control,natural gas,25.10.2012,"Shreekant Jha of PJ Commodity Ventures advocates selling crude on MCX at RS 4,750 per barrel for target of Rs 4,600 per barrel on the lower side.",-0.7,1,Negative
+14301,Money Control,natural gas,16.10.2012,"Sharekhan has come out with its report on Natural Gas. According to the research firm, it is expected to test the key daily moving averages, ie 170.",-0.04,0.44,Negative
+14335,Money Control,natural gas,12.10.2012,"Geojit Comtrade has come out with its technical report on Gold, Silver, Crude, Natural Gas, Copper, Nickel, Lead, Zinc and Aluminium. According to the research firm, one can buy MCX Natural Gas October around Rs 189 levels with a stop loss placed below Rs 186 levels for a target of Rs 195 levels.",-0.14,0.46,Negative
+14381,Money Control,natural gas,09.10.2012,"Fortune Financial Services has come out with its report on MCX Gold, Silver, Natural Gas, Crude Oil, Copper and Nickel. According to the research firm, one can buy Natural Gas October future around Rs 178 with a stoploss of Rs 175 for a target of Rs 182-185.",-0.116666667,0.3875,Negative
+14409,Money Control,natural gas,05.10.2012,"Geojit Comtrade has come out with its report on MCX Gold, Silver, Crude Oil, Natural Gas, Copper, Nickel, Lead, Zinc and Aluminium. According to the research firm, one can buy Natural Gas around Rs 178 with a stolpss below Rs 173 for a target of Rs 184.",-0.175,0.55,Negative
+14478,Money Control,natural gas,28.09.2012,"Geojit Comtrade has come out with its report on MCX Gold, Silver, Crude Oil, Natural Gas, Copper, Nickel, Lead, Zinc and Aluminium. According to the research firm, one can buy Natural Gas around Rs 174 with the stoploss below Rs 171 for a target of Rs 179.",-0.175,0.55,Negative
+14506,Money Control,natural gas,26.09.2012,Karvy Commodities Broking has come out with its report on Crude Oil and Natural Gas. The research firm expects shifting of volume in Natural Gas can be witnessed in far month contract and gains may be limited in current month contract.,-0.095918367,0.534693878,Negative
+14521,Money Control,natural gas,25.09.2012,"Fortune Financial Services has come out with its report on MCX Gold, Silver, Natural Gas, Crude Oil, Copper and Nickel. According to the research firm, MCX Natural Gas Oct futures contract is looking weak on chart; day traders can sell on small pullback Major support is seen in range of Rs 161.37-159.74 and Rs 158.11.",-0.1578125,0.465625,Negative
+14559,Money Control,natural gas,20.09.2012,"Geojit Comtrade has come out with its report on MCX Gold, Silver, Crude Oil, Natural Gas, Copper, Nickel, Lead, Zinc and Aluminium. According to the research firm, one can buy Natural Gas around Rs 150 levels with a stop loss placed below Rs 147 levels for target of Rs 154 levels.",-0.175,0.55,Negative
+14577,Money Control,natural gas,18.09.2012,"Fortune Financial Services has come out with its report on MCX gold, silver, natural gas, crude oil, copper and nickel. According to the research firm, one can sell natural gas September future around Rs 158 with a stoploss of Rs 161 for a target of Rs 153-150.",-0.116666667,0.3875,Negative
+14645,Money Control,natural gas,11.09.2012,Priyank Upadhyay of SSJ Finance & Securities believes that natural gas has broken a support of Rs 150 per mmbtu and is headed lower in short term. He advocates selling natural gas around Rs 153-154 per mmbtu levels with a stop loss above Rs 158 per mmbtu and we expect targets of around Rs 145 per mmbtu.,-0.04,0.32,Negative
+14652,Money Control,natural gas,10.09.2012,"Way2Wealth has come out with its report on gold, natural gas, copper, nickel, soya oil and maize. According to the research firm, one can sell natural gas below Rs 145 for a target of Rs 131 with a stoploss of Rs 151.",0,0.4,Neutral
+14667,Money Control,natural gas,07.09.2012,"Goeojit Comtrade has come out with its report on MCX gold, silver, crude oil, natural gas, copper, nickel, lead, zinc and aluminium. According to research firm, one can sell natural gas November future below Rs 154 levels with a stop loss placed above Rs 157 levels for targets of Rs 149 levels.",-0.116666667,0.404166667,Negative
+14739,Money Control,natural gas,31.08.2012,"NS Ramaswamy, Ventura Securities of recommends buying crude MCX September contract above Rs 5,275 per barrel. He advises this with a target of Rs 5,345 per barrel and beyond that, on an intraday, to Rs 5,380 per barrel.",-0.35,0.55,Negative
+14757,Money Control,natural gas,30.08.2012,Karvy Commodities Broking has come out with its report on Crude Oil and Natural Gas. The research firm has suggested investors to remain on sell side in Crude Oil and Natural Gas for the day.,-0.28,0.64,Negative
+14832,Money Control,natural gas,23.08.2012,"Fortune Financial Servies has come out with its report on bullion, energy and metals. According to the research firm, one can buy MCX Natural Gas August around Rs 153 with a stoploss of Rs 149 for the targets of Rs 159-162.",-0.033333333,0.266666667,Negative
+14876,Money Control,natural gas,21.08.2012,IIFL has come out with its report on natural gas. The research firm recommends buying Natural Gas August around Rs 153.,0,0.4,Neutral
+14883,Money Control,natural gas,17.08.2012,"Fortune Financial Servies has come out with its report on bullion, energy and metals. According to the research firm, one can buy MCX Natural Gas August contract around Rs 152 with a stop loss of Rs 149 for the targets of Rs 158 & 161.",-0.033333333,0.266666667,Negative
+14971,Money Control,natural gas,09.08.2012,Karvy Commodities Broking has come out with its report on Crude Oil and Natural Gas. The research firm has suggested to remain on sell side in Natural Gas for the day.,-0.175,0.55,Negative
+15169,Money Control,natural gas,19.07.2012,"Angel Commodities has come out with its special technical report on MCX Natural Gas. According to the research firm, one can buy MCX Natural Gas July between Rs 161-162 with a stoploss of Rs 155 for targets of Rs 172-175.",0.071428571,0.374285714,Positive
+15171,Money Control,natural gas,19.07.2012,"Renisha Chainani of Edelweiss recommends buying MCX crude oil August contract around Rs 4,970-4,980 per barrel levels with the stop loss of Rs 4,950 per barrel for targets of Rs 5,020-5,050 per barrel on the higher side.",-0.225,0.75,Negative
+15449,Money Control,natural gas,22.06.2012,Karvy Commodities Broking has come out with its report on Crude Oil and Natural Gas.The research firm has recommended to remain on selling side in Crude and buying side in Natural Gas for the day.,-0.28,0.64,Negative
+15497,Money Control,natural gas,18.06.2012,"Karvy Commodities Broking has come out with its report on Crude Oil and Natural Gas. The research firm, has recommended to stay on buying side for the day in Natural Gas.",-0.175,0.55,Negative
+15692,Money Control,natural gas,28.05.2012,Way2Wealth has come out with its special report on Natural Gas. As per the research firm one can buy 1st lot at CMP Rs 115 and 2nd lot at Rs 101-96 levels for targets of Rs 147-170 with stop loss of Rs 86.,0.064285714,0.342857143,Positive
+15700,Money Control,natural gas,25.05.2012,Way2Wealth has come out with its special report on Natural Gas. As per the research firm one can buy 1st lot at CMP Rs 115 and 2nd lot at Rs 101-96 levels for targets of Rs 147-170 with stop loss of Rs 86.,0.064285714,0.342857143,Positive
+15737,Money Control,natural gas,18.05.2012,Way2Wealth has come out with its special report on Natural Gas. As per the research firm one can buy 1st lot of Natural Gas at CMP at Rs 115 and 2nd lot at Rs 101-96 levels for target of Rs 147 then Rs 170 with a stop loss of Rs 86.,0.071428571,0.354285714,Positive
+15797,Money Control,natural gas,10.05.2012,Way2Wealth has come out with its report on Natural Gas. As per the research firm one can buy Natural Gas 1st lot at CMP 115 and 2nd lot at 101-96 levels for target of 147 then 170 with stop loss of 86.,0,0.3,Neutral
+16160,Money Control,natural gas,23.03.2012,Way2Wealth has come out with its special technical report on Natural Gas. As per the research firm one can buy MCX April Natural Gas Future for time frame of 1-2 months.,0.05952381,0.332738095,Positive
+16285,Money Control,natural gas,08.03.2012,"Natural gas tumbles on warm weather, supply",0.35,0.5,Positive
+16286,Money Control,natural gas,07.03.2012,Natural gas futures drop to contract low on mild March weather,0.144444444,0.4,Positive
+16299,Money Control,natural gas,07.03.2012,Natural gas futures retreat after bounce,0.1,0.4,Positive
+16301,Money Control,natural gas,06.03.2012,Natural gas futures edge higher but remain close to 10-year low,0.116666667,0.4,Positive
+16319,Money Control,natural gas,06.03.2012,"Natural gas plunges again on warm winter forecasts, elevated inventory",0.35,0.5,Positive
+16349,Money Control,natural gas,02.03.2012,Karvy Commodities Broking has come out with its report on Crude oil and Natural gas. According to the research firm,-0.266666667,0.6,Negative
+16517,Money Control,natural gas,13.02.2012,"GEPL Capital has come out with its report on Natural Gas. According to the research firm one can buy Natural Gas around Rs 122 - Rs 120 winth stop loss below Rs 114, for target of Rs 130 - 133.",0,0.4,Neutral
+16690,Money Control,natural gas,24.01.2012,Nirmal Bang has come out with its report on Natural Gas. According to the research firm decline in February contract of Natural gas should be used as good opportunity to go long.,0.13,0.44,Positive
+16713,Money Control,natural gas,20.01.2012,Natural gas futures bounce from lows,0.1,0.4,Positive
+16732,Money Control,natural gas,19.01.2012,Natural gas falls to lowest since March 2002 after supply report,0.1,0.4,Positive
+16750,Money Control,natural gas,19.01.2012,Natural gas futures slightly lower before inventories,-0.033333333,0.283333333,Negative
+16754,Money Control,natural gas,18.01.2012,"Natural gas futures steady near 10-year low, inventory data eyed",0.091666667,0.4,Positive
+16779,Money Control,natural gas,18.01.2012,Natural gas futures plunge 18% in 6 sessions,0.1,0.4,Positive
+16782,Money Control,natural gas,17.01.2012,"Natural gas hits fresh 28-month low, tumbles 18% in 6 days",0.133333333,0.4,Positive
+16808,Money Control,natural gas,17.01.2012,Natural gas drops again,0.1,0.4,Positive
+16810,Money Control,natural gas,16.01.2012,Natural gas futures plunge nearly 5% in holiday-thinned trade,0.1,0.4,Positive
+16814,Money Control,natural gas,16.01.2012,"Natural gas drops to fresh 28-month low, more downside seen",0.225,0.425,Positive
+16830,Money Control,natural gas,15.01.2012,Natural gas futures - Weekly outlook: January 16-20,0.1,0.4,Positive
+16836,Money Control,natural gas,13.01.2012,Natural Gas adds to losses on warm winter,0.35,0.5,Positive
+16839,Money Control,natural gas,13.01.2012,Geojit Comtrade has come out with its report on Natural Gas. According to the research firm a bounce back is expected towards 144-154.,-0.05,0.3,Negative
+16853,Money Control,natural gas,13.01.2012,Natural Gas plummets to 28 month low,0.05,0.35,Positive
+16856,Money Control,natural gas,12.01.2012,Natural gas futures plunge further after modest supply drop,0.066666667,0.6,Positive
+16872,Money Control,natural gas,12.01.2012,Natural Gas plummets 5% on warm winter weather,0.35,0.5,Positive
+16874,Money Control,natural gas,11.01.2012,Natural gas futures plunge 4% to hit fresh 28-month low,0.133333333,0.4,Positive
+16898,Money Control,natural gas,10.01.2012,Natural gas trades close to 28-month low on weather outlook,0.05,0.35,Positive
+16920,Money Control,natural gas,09.01.2012,Natural gas tumbles as U.S. east coast to remain warm this week,0.35,0.5,Positive
+16937,Money Control,natural gas,08.01.2012,Natural gas futures - Weekly outlook: January 9 - 13,0.1,0.4,Positive
+16959,Money Control,natural gas,05.01.2012,Natural gas futures remain lower after U.S. storage data,0.1,0.4,Positive
+16979,Money Control,natural gas,04.01.2012,Natural gas jumps above USD3.00 on cold weather outlook,-0.166666667,0.5,Negative
+16999,Money Control,natural gas,03.01.2012,Natural gas futures trade below USD3.00 for second session,0.05,0.2,Positive
+17023,Money Control,natural gas,01.01.2012,Natural gas futures - Weekly outlook: January 2 - 6,0.1,0.4,Positive
+17041,Money Control,natural gas,29.12.2011,Natural gas futures add to losses after U.S. supply report,0.1,0.4,Positive
+17063,Money Control,natural gas,28.12.2011,Natural gas trades close to 27-month low on weather outlook,0.05,0.35,Positive
+17080,Money Control,natural gas,27.12.2011,Natural gas futures gain on forecasts of colder weather,0.1,0.4,Positive
+17097,Money Control,natural gas,25.12.2011,Natural gas futures - Weekly outlook: December 26 - 30,0.1,0.4,Positive
+17112,Money Control,natural gas,22.12.2011,Natural gas futures turn lower as U.S. supply report disappoints,0.1,0.4,Positive
+17135,Money Control,natural gas,21.12.2011,"Natural gas futures drop with weather, supply data in focus",0.1,0.4,Positive
+17155,Money Control,natural gas,20.12.2011,Natural gas off 27-month low but downside risks remain,0.05,0.35,Positive
+17176,Money Control,natural gas,19.12.2011,Natural gas falls to fresh 27-month low on weather outlook,0.133333333,0.4,Positive
+17195,Money Control,natural gas,18.12.2011,Natural gas futures - Weekly outlook: December 19 - 23,0.1,0.4,Positive
+17218,Money Control,natural gas,15.12.2011,Natural gas off 27-month low after U.S. storage withdrawal,0.05,0.35,Positive
+17241,Money Control,natural gas,14.12.2011,Natural gas trades at 27-month low on weather outlook,0.05,0.35,Positive
+17264,Money Control,natural gas,13.12.2011,"Natural gas close to 2-year low on weather, supply outlook",0.05,0.35,Positive
+17274,Money Control,natural gas,13.12.2011,Kotak Commodities has come out with its report on Natural Gas. According to the research firm Natural Gas has resistance around Rs 180.,0,0.4,Neutral
+17280,Money Control,natural gas,12.12.2011,Natural gas tumbles to 13-month low on warm weather outlook,0.233333333,0.433333333,Positive
+17302,Money Control,natural gas,11.12.2011,Natural gas futures - Weekly outlook: December 12 - 16,0.1,0.4,Positive
+17326,Money Control,natural gas,08.12.2011,Natural gas futures surge after U.S. storage withdrawal,0.1,0.4,Positive
+17351,Money Control,natural gas,07.12.2011,Natural gas tumbles as warm East Coast weather weighs,0.35,0.5,Positive
+17369,Money Control,natural gas,06.12.2011,Natural gas falls to 2-week low on warm East Coast weather,0.233333333,0.433333333,Positive
+17374,Money Control,natural gas,05.12.2011,Natural gas futures tumble to 2-week low on weather outlook,0.05,0.35,Positive
+17388,Money Control,natural gas,04.12.2011,Natural gas futures - Weekly outlook: December 5 - 9,0.1,0.4,Positive
+17406,Money Control,natural gas,01.12.2011,Natural gas futures rally 3% after U.S. supply data,0.1,0.4,Positive
+17453,Money Control,natural gas,29.11.2011,Natural gas futures sharply higher on cooler weather forecasts,0.175,0.45,Positive
+17472,Money Control,natural gas,29.11.2011,"Kotak Commodity has come out with its report on Natural Gas. As per the research firm one can go long in MCX Natural Gas for target of Rs 199, with the stop loss closing below Rs 176 level.",-0.0125,0.4,Negative
+17479,Money Control,natural gas,28.11.2011,Natural gas futures retreat from 11-day high on profit taking,0.13,0.47,Positive
+17506,Money Control,natural gas,27.11.2011,Natural gas - Weekly outlook: November 28 - December 2,0.1,0.4,Positive
+17525,Money Control,natural gas,24.11.2011,Natural gas futures ease off 8-day high on profit taking,0.13,0.47,Positive
+17542,Money Control,natural gas,23.11.2011,Natural gas futures tumble ahead of U.S. supply data,0.1,0.4,Positive
+17562,Money Control,natural gas,22.11.2011,Natural gas futures turn lower with inventory data in focus,0.1,0.4,Positive
+17582,Money Control,natural gas,21.11.2011,Natural gas futures steady close to 13-month low,0.088888889,0.4,Positive
+17607,Money Control,natural gas,20.11.2011,Natural gas futures - Weekly outlook: November 21-25,0.1,0.4,Positive
+17616,Money Control,natural gas,18.11.2011,"Kotak Commodity has come out with its report on Natural Gas. As per the research firm one can go long in MCX Natural Gas around Rs 170-173, with the stop loss closing below Rs 165 level, targeting Rs 190–194.",-0.0125,0.4,Negative
+17627,Money Control,natural gas,17.11.2011,Natural gas futures bounce off 13-month low after U.S. supply data,0.05,0.35,Positive
+17654,Money Control,natural gas,16.11.2011,Natural gas drops to 13-month low with inventory data in focus,0.05,0.35,Positive
+17671,Money Control,natural gas,15.11.2011,"Natural gas drops to 13-month low on weather, supply outlook",0.05,0.35,Positive
+17694,Money Control,natural gas,14.11.2011,Natural gas tumbles to 4-week low on warm weather outlook,0.233333333,0.433333333,Positive
+17706,Money Control,natural gas,13.11.2011,Natural gas futures - Weekly outlook: November 14-18,0.1,0.4,Positive
+17736,Money Control,natural gas,10.11.2011,Natural gas futures fall to 2-week low after U.S. supply data,0.05,0.35,Positive
+17745,Money Control,natural gas,09.11.2011,Natural gas futures slump on mild weather forecasts,0.216666667,0.45,Positive
+17767,Money Control,natural gas,08.11.2011,Natural gas trades close to 2-week low as mild weather weighs,0.144444444,0.4,Positive
+17789,Money Control,natural gas,07.11.2011,Natural gas futures tumble to 2-week low on mild weather,0.144444444,0.4,Positive
+17795,Money Control,natural gas,06.11.2011,Natural gas futures - Weekly outlook: November 7-11,0.1,0.4,Positive
+17826,Money Control,natural gas,03.11.2011,Natural gas futures add to gains after U.S. supply data,0.1,0.4,Positive
+17863,Money Control,natural gas,01.11.2011,Natural gas futures plunge on mild weather forecasts,0.216666667,0.45,Positive
+17889,Money Control,natural gas,31.10.2011,Natural gas futures pull back from 6-week high on mild weather,0.148333333,0.36,Positive
+17914,Money Control,natural gas,30.10.2011,Natural gas futures - Weekly outlook: October 31-November 4,0.1,0.4,Positive
+17941,Money Control,natural gas,27.10.2011,Natural gas futures add to losses after U.S. supply data,0.1,0.4,Positive
+17949,Money Control,natural gas,26.10.2011,Natural gas futures decline with inventory data in focus,0.1,0.4,Positive
+17960,Money Control,natural gas,25.10.2011,Natural gas futures gain on cold weather forecasts,-0.25,0.7,Negative
+17980,Money Control,natural gas,24.10.2011,"Natural gas futures turn lower on profit taking, supply outlook",0.1,0.4,Positive
+18005,Money Control,natural gas,23.10.2011,Natural gas futures - Weekly review: October 17-21,0.1,0.4,Positive
+18048,Money Control,natural gas,19.10.2011,Natural gas futures steady with inventory data in focus,0.133333333,0.45,Positive
+18072,Money Control,natural gas,18.10.2011,Natural gas futures fall sharply on ample U.S. supply outlook,-0.0125,0.575,Negative
+18087,Money Control,natural gas,18.10.2011,Experts cherry pick top commodities for trade today.,0.5,0.5,Positive
+18095,Money Control,natural gas,17.10.2011,"Natural gas futures slump on profit taking, production outlook",0.1,0.4,Positive
+18110,Money Control,natural gas,17.10.2011,"Angel Broking has come out with its report on Crude, Natural Gas. According to the research firm one can buy MCX Natural Gas October between 179.50-179, SL- 174.80, target -185.50.",-0.175,0.55,Negative
+18118,Money Control,natural gas,16.10.2011,Natural gas futures - Weekly review: October 10-14,0.1,0.4,Positive
+18127,Money Control,natural gas,14.10.2011,"Angel Broking has come out with its report on Natural Gas, Lead.",0.1,0.4,Positive
+18161,Money Control,natural gas,12.10.2011,Natural gas futures hit 1-week high on increased demand hopes,0.13,0.47,Positive
+18166,Money Control,natural gas,12.10.2011,Kotak Commodity has come out with its report on Natural Gas.,0.1,0.4,Positive
+18176,Money Control,natural gas,12.10.2011,"Mangal Keshav has come out with its report on Natural Gas, Copper, Gold and Silver",0.1,0.4,Positive
+18184,Money Control,natural gas,11.10.2011,Natural gas futures fluctuate amid uncertain demand outlook,0.1,0.4,Positive
+18216,Money Control,natural gas,10.10.2011,Natural gas rebounds from 11-month low on U.S. weather outlook,0.05,0.35,Positive
+18242,Money Control,natural gas,09.10.2011,Natural gas futures - Weekly review: October 3-7,0.1,0.4,Positive
+18272,Money Control,natural gas,06.10.2011,Natural gas futures slump to 1-year low after U.S. supply data,0.05,0.35,Positive
+18277,Money Control,natural gas,05.10.2011,Natural gas trades close to 11-month low on weather outlook,0.05,0.35,Positive
+18300,Money Control,natural gas,04.10.2011,Natural gas rebounds from 11-month low on cooler U.S. weather,0.05,0.35,Positive
+18326,Money Control,natural gas,03.10.2011,Natural gas futures slump to 11-month low on U.S. weather,0.05,0.35,Positive
+18339,Money Control,natural gas,03.10.2011,"Kotak Commodity has come out with its report on Copper, Crude Oil.",-0.7,1,Negative
+18354,Money Control,natural gas,02.10.2011,Natural gas futures - Weekly review: September 26-30,0.1,0.4,Positive
+18392,Money Control,natural gas,28.09.2011,Natural gas futures dip ahead of contract expiry,0.1,0.4,Positive
+18393,Money Control,natural gas,28.09.2011,"Kotak Commodity has come out with its report on Natural Gas, Crude oil.",-0.3,0.7,Negative
+18407,Money Control,natural gas,27.09.2011,Natural gas futures climb to 1-week high on cool U.S. weather,0.203333333,0.53,Positive
+18426,Money Control,natural gas,26.09.2011,Natural gas futures jump to 3-day high on U.S. weather outlook,0.13,0.47,Positive
+18447,Money Control,natural gas,25.09.2011,Natural gas futures - Weekly review: September 19-23,0.1,0.4,Positive
+18477,Money Control,natural gas,22.09.2011,Natural gas futures pare losses after U.S. EIA data,0.1,0.4,Positive
+18493,Money Control,natural gas,21.09.2011,Natural gas futures fall to 6-month low on U.S. demand outlook,0.05,0.35,Positive
+18511,Money Control,natural gas,20.09.2011,Natural gas futures decline on cool U.S. weather,0.225,0.525,Positive
+18529,Money Control,natural gas,19.09.2011,Natural gas futures hit 6-month low on U.S. weather outlook,0.05,0.35,Positive
+18551,Money Control,natural gas,18.09.2011,Natural gas futures - Weekly review: September 12-16,0.1,0.4,Positive
+18631,Money Control,natural gas,07.09.2011,"Mangal Keshav has come out with its report on Natural Gas, Copper.",0.1,0.4,Positive
+18647,Money Control,natural gas,06.09.2011,"Way2Wealth has come out with its report on Edible, Natural Gas, Pulses.",0.1,0.4,Positive
+18764,Money Control,natural gas,24.08.2011,SMC Global has come out with its report on natural gas.,0.05,0.2,Positive
+19451,Economies.com,natural gas,29.11.2018,"Natural gas futures fell in American trade off November 21 highs,  while the dollar index inched higher, following earlier data from the US, the world's largest energy consumer, which showed a ...",0.07,0.3,Positive
+19483,Economies.com,natural gas,21.11.2018,"Natural gas futures fell in American trade off January 2014 highs for the fourth session out of six, while the dollar index backed off January 2017 highs for another session, following earlier US ...",0.02,0.2,Positive
+19529,Economies.com,natural gas,08.11.2018,"Natural gas futures fell off January 29 highs for the third straight session, as the dollar index rebounded from October 22 lows, following earlier data from China, the world's largest energy ...",0.06,0.28,Positive
+19553,Economies.com,natural gas,01.11.2018,"Natural gas futures slid one percent in American trade off October 18 highs, even as the dollar index backed off June 2017 highs, following earlier data from the US, the world's largest energy ...",0.025,0.25,Positive
+19577,Economies.com,natural gas,25.10.2018,"Natural gas futures rose over one percent in American trade as the dollar index pared gains near August 16 highs, while shrugging off earlier US data that showed another inventory build for the 25th ...",0.16,0.45,Positive
+19603,Economies.com,natural gas,18.10.2018,"Natural gas futures tumbled nearly 3% in American trade as the dollar index hit October 9 highs, following earlier data from the US, the world's largest energy consumer, which showed another ...",0.025,0.25,Positive
+19626,Economies.com,natural gas,11.10.2018,"Natural gas futures fell nearly two percent in American trade away from January 29 highs, while the dollar index backed off August 20 highs, following earlier inflation and labor data from the US, ...",0.04,0.28,Positive
+19651,Economies.com,natural gas,04.10.2018,"Natural gas futures fell over one percent in American trade away from January 26 highs, as the dollar index scaled August 20 highs, after earlier US data showed a spike in inventories past ...",-0.0375,0.2875,Negative
+19676,Economies.com,natural gas,27.09.2018,"Natural gas futures rallied over 2% in American trade to January 31 highs after earlier US data showed a lower-than-expected inventory buildup last week. 
+ 
+As of 07:58 GMT, natural gas ...",0.04,0.273333333,Positive
+19697,Economies.com,natural gas,20.09.2018,"Natural gas futures rose nearly two percent in American trade to August 22 highs, while the dollar index hit July 9 lows, shrugging off earlier data from the US, the world's largest energy consumer, ...",0.16,0.45,Positive
+19723,Economies.com,natural gas,13.09.2018,"Natural gas futures fell nearly one percent in American trade away from September 4 highs, after US data showed another large inventory build for the 19th week in a row. 
+ 
+As of 07:58 ...",0.103571429,0.307142857,Positive
+19748,Economies.com,natural gas,06.09.2018,"Natural gas futures fell in American trade to August 2 lows, after earlier US data showed another inventory buildup for the 18th week in a row. 
+ 
+As of 07:58 GMT, natural gas futures due ...",0.015,0.335,Positive
+19798,Economies.com,natural gas,23.08.2018,"Natural gas futures rose in American trade as the dollar index climbed from August 2 lows, following earlier data the world's largest energy importer, and shrugging off US data that showed another ...",0.14,0.39,Positive
+19824,Economies.com,natural gas,16.08.2018,"Natural gas futures fell nearly one percent in American trade off June 28 highs, as the dollar index traded mostly flat but still near June 2017 highs, following earlier data from the US, the world's ...",0.039285714,0.275,Positive
+19850,Economies.com,natural gas,09.08.2018,"Natural gas futures tilted higher off May 7 lows for the 11th session out of 16, after US data showed a slightly lower-than-expected inventory buildup, and following upbeat data from China, the ...",0.045833333,0.291666667,Positive
+19877,Economies.com,natural gas,02.08.2018,"Natural gas futures rose over two percent in American trade off July 25 lows, while the dollar index scaled July 20 highs, following earlier data from the US, the world's largest energy consumer, ...",0.14,0.39,Positive
+19900,Economies.com,natural gas,26.07.2018,"Natural gas futures titled higher in American trade off July 13 lows, while the dollar index climbed off July 10 lows, following earlier data from the US, the world's largest energy consumer, ...",0.07,0.3,Positive
+19925,Economies.com,natural gas,19.07.2018,"Natural gas futures rose nearly two percent in American trade away from May 7 lows, even as the dollar index hit July 14, 2017 highs, following earlier data from the US, the world's largest energy ...",0.133333333,0.391666667,Positive
+19953,Economies.com,natural gas,12.07.2018,"Natural gas futures fell over one percent in American trade as the dollar index hit July 3 highs, following earlier data from the US, the world's largest energy consumer, including the EIA report ...",0.025,0.25,Positive
+19974,Economies.com,natural gas,06.07.2018,"Natural gas futures rose in American trade away from May 22 lows, as the dollar index slid away from July 14, 2017 highs for the fourth session out of seven, following earlier data from the US, the ...",0.116666667,0.325,Positive
+20000,Economies.com,natural gas,28.06.2018,"Natural gas futures fell over one percent in American trade away from June 18 highs, while the dollar index traded mostly flat near July 14, 2017 highs, following earlier data from the US, the ...",0.029166667,0.254166667,Positive
+20015,Economies.com,natural gas,21.06.2018,"Natural gas futures rose in American trade as the dollar index fell  for the first time in three sessions off July 14 highs, following earlier data from the US, the world's largest energy ...",0.158333333,0.380555556,Positive
+20073,Economies.com,natural gas,31.05.2018,"Natural gas futures rose over two percent to early February highs, as the dollar index fell off November 7 peak, following earlier data from China, the world's largest energy importer, and the US, ...",0.16,0.45,Positive
+20094,Economies.com,natural gas,24.05.2018,"Natural gas futures rose nearly one percent in American trade to early February highs, while the dollar index fell off five-month highs, following earlier US data that showed a dip in the weekly ...",0.128571429,0.378571429,Positive
+20114,Economies.com,natural gas,17.05.2018,"Natural gas futures rose over one percent in American trade away from May 19 lows while the dollar index eked out small gains, shrugging off earlier US data that showed a larger-than-expected ...",0.09,0.45,Positive
+20140,Economies.com,natural gas,10.05.2018,"Natural gas futures rose nearly three in American trade to April 27 highs, as the dollar index fell off December 22 highs, following earlier data from China, the world's largest energy importer, and ...",0.133333333,0.391666667,Positive
+20170,Economies.com,natural gas,03.05.2018,"Natural gas futures fell nearly one percent in American trade to April 20 lows as the dollar index traded mostly flat, following earlier data from the US, the world's largest energy consumer, ...",0.029166667,0.254166667,Positive
+20199,Economies.com,natural gas,26.04.2018,"Natural gas futures rose over one percent in American trade to February 5 highs while the dollar index scaled January 12 highs, following earlier data from the US, the world's largest energy ...",0.14,0.39,Positive
+20229,Economies.com,natural gas,19.04.2018,"Natural gas futures tumbled three percent in American trade away from March 14 highs as the dollar index rebounded from March 27 lows for the third straight session, despite earlier US data that ...",0.06,0.26,Positive
+20258,Economies.com,natural gas,12.04.2018,"Natural gas futures rose in American trade from March 27 lows for the second session even as the dollar index rebounded from March 28 lows, following earlier data from the US, the world's largest ...",0.116666667,0.325,Positive
+20287,Economies.com,natural gas,05.04.2018,"Natural gas futures fell nearly two percent in American trade as the dollar index gained ground, following earlier data from the US, the world's largest energy consumer, including the EIA report that ...",0.04,0.28,Positive
+20310,Economies.com,natural gas,29.03.2018,"Natural gas futures rose over one percent in American trade to March 14 highs, even as the dollar index rose to March 21 highs, following earlier data from the US, the world's largest energy ...",0.216666667,0.483333333,Positive
+20339,Economies.com,natural gas,22.03.2018,"Natural gas futures fell nearly one percent in American trade to February 26 lows, as the dollar index rebounded from February 20 lows, and following earlier data from the US, the world's largest ...",0.04,0.28,Positive
+20369,Economies.com,natural gas,15.03.2018,"Natural gas futures fell nearly two percent in American trade away from February 5 highs for the third session as the dollar index rose for the second straight session from one-week lows, following ...",0.125,0.28125,Positive
+20398,Economies.com,natural gas,08.03.2018,"Natural gas futures fell nearly one percent in American trade away from February 5 highs as the dollar index rebounded from February 20 lows, following earlier data from China, the world's largest ...",0.04,0.28,Positive
+20429,Economies.com,natural gas,01.03.2018,"Natural gas futures rose over one percent to February 8 highs in American trade as the dollar index bounced off January 18 highs, following earlier data from the US, the world's largest energy ...",0.14,0.39,Positive
+20458,Economies.com,natural gas,22.02.2018,"Natural gas futures lost over one percent in American trade even as the dollar index declined for the first time in five sessions, following earlier data from the US, the world's largest energy ...",0.07,0.266666667,Positive
+20484,Economies.com,natural gas,15.02.2018,"Natural gas futures fell to February 22, 2017 lows even as the dollar index hit the lowest since early February, following earlier data from the US, the world's largest energy consumer, including the ...",0.05,0.325,Positive
+20515,Economies.com,natural gas,08.02.2018,"Natural gas futures fell in American trade to December 27 lows as the dollar index rose to January 23 highs, following earlier data from China, the world's largest energy importer, and the US, the ...",0.14,0.39,Positive
+20545,Economies.com,natural gas,01.02.2018,"Natural gas futures fell over four percent in American trade to the lowest since January 9, as the dollar index plumbed January 25 lows, following a basket of data from the US, the world's largest ...",0.033333333,0.166666667,Positive
+20571,Economies.com,natural gas,25.01.2018,"Natural gas futures fell nearly two percent in American trade as the dollar bounced off December 17, 2014 lows, following earlier data from the US, the world's largest energy consumer, including the ...",0.04,0.28,Positive
+20589,Economies.com,natural gas,18.01.2018,"Natural gas futures fell nearly one percent in American trade as the dollar index plumbed late-2014 lows, following a basket of data from China, the world's largest energy importer, and the US, the ...",0.05,0.225,Positive
+20624,Economies.com,natural gas,04.01.2018,"Natural gas futures fell below $3 on Thursday away from December 4 highs, after earlier data from the US, the world's largest energy consumer, including the EIA report that showed a ...",0.05,0.45,Positive
+20654,Economies.com,natural gas,21.12.2017,"Natural gas futures fell one percent to February 22 lows, even as the dollar index dipped for the fourth straight session, following a basket of data from the US, the world's largest energy consumer, ...",0.075,0.225,Positive
+20674,Economies.com,natural gas,14.12.2017,"Natural gas futures fell nearly one percent to the lowest since February 24 as the dollar index rose, following a basket of data from China and the US, including the EIA report that showed a ...",0.2,0.4625,Positive
+20688,Economies.com,natural gas,08.12.2017,"Natural gas futures tilted higher in American trade to pare some of the losses made this week, even as the dollar index rose for the fourth consecutive session to the highest since November 21, ...",0.19,0.37,Positive
+20705,Economies.com,natural gas,30.11.2017,"Natural gas futures fell nearly five percent even as the dollar index gave up ground, following earlier data from the US, the world's largest energy consumer, including the EIA report that showed a ...",0.05,0.35,Positive
+20726,Economies.com,natural gas,22.11.2017,"Natural gas futures slid over one percent to below $3 even as the dollar index hit a one-week trough, following a stream of US data, including the EIA report that showed a less-than-expected ...",0.05,0.25,Positive
+20738,Economies.com,natural gas,16.11.2017,"Natural gas futures fell nearly one percent as the dollar index rebounded for the second session from the lowest since October 20, following earlier data from the US, the world's largest energy ...",0.04,0.28,Positive
+20758,Economies.com,natural gas,09.11.2017,"Natural gas futures jumped over 1% to the highest since late May, heading for the sixth daily profit in a row, as the dollar hit a week low, following earlier data from the US, the world's largest ...",-0.033333333,0.316666667,Negative
+20761,Economies.com,natural gas,09.11.2017,"The Energy Information administration released its report on US natural gas inventories, showing a reduced buildup of 15 billion cubic feet in the week ending November 3, down sharply from 65B in the ...",-0.060185185,0.47962963,Negative
+20776,Economies.com,natural gas,02.11.2017,"Natural gas futures rose over one percent in American trade as the dollar index fell, following a basket of data from the US, the world's largest energy consumer, including the EIA report that showed ...",0.175,0.3625,Positive
+20789,Economies.com,natural gas,26.10.2017,"Natural gas futures tumbled over one percent in American trade as the dollar index rose to the highest since July 20, following an array of data from the US, the world's largest energy consumer, ...",0.175,0.3625,Positive
+20792,Economies.com,natural gas,26.10.2017,"The Energy Information Administration released its US natural gas inventory report, showing a buildup of 64 billion cubic feet in the week ending October 20, adding to a 51B rise in the previous ...",-0.033333333,0.283333333,Negative
+20806,Economies.com,natural gas,19.10.2017,"Natural gas futures rose nearly one percent in American trade as the dollar index declined for the second straight session, following an array of data from China and the US, the world's largest ...",0.142857143,0.321428571,Positive
+20822,Economies.com,natural gas,12.10.2017,"Natural gas futures spiked nearly four percent in American trade as the dollar index continued moving away from the highest since July 26 for the fifth session in a row, following a spate of data ...",0.05,0.225,Positive
+20837,Economies.com,natural gas,05.10.2017,"Natural gas futures fell nearly one percent in American trade as the dollar index hit the highest since August 17, following a stream of data from the US, the world's largest energy consumer, ...",0.05,0.225,Positive
+20852,Economies.com,natural gas,28.09.2017,"Natural gas futures slid over one percent in American trade even as the dollar index glided away from the highest since August 18, following an array of data from the US, the world's largest energy ...",0.033333333,0.166666667,Positive
+20868,Economies.com,natural gas,21.09.2017,"Natural gas futures slumped in American trade as the dollar index slipped, following a spate of data from the US, the world's largest energy consumer, including the EIA report that showed a ...",0.033333333,0.166666667,Positive
+20886,Economies.com,natural gas,14.09.2017,"Natural gas futures tilted higher in American trade as the dollar index declined, following an array of data from the US, the world's largest energy consumer, including the EIA report that showed a ...",0.0875,0.25,Positive
+20889,Economies.com,natural gas,14.09.2017,"The Energy Information Administration released its report on US natural gas inventories, showing a buildup of 91 billion cubic feet in the week ending September 8, adding to the 65B rise in the ...",0.1,0.4,Positive
+20905,Economies.com,natural gas,07.09.2017,"Natural gas futures slid nearly one percent even as the dollar index slumped to the lowest since January 6, 2015, following an array of data from the US, the world's largest energy consumer, ...",0.066666667,0.3,Positive
+20918,Economies.com,natural gas,31.08.2017,"Natural gas futures surged nearly three percent as the dollar index traded flat, following a spate of data from the US, the world's largest energy consumer, including the EIA report that showed a ...",0.04375,0.25625,Positive
+20935,Economies.com,natural gas,24.08.2017,"Natural gas futures advanced nearly one percent even as the dollar gained ground today, following a spate of data from the US, the world's largest energy consumer, including the EIA report that ...",0.15,0.375,Positive
+20954,Economies.com,natural gas,17.08.2017,"Natural gas futures rose over one percent even as the dollar index settled lower, following earlier data from the US, the world's largest energy consumer, including the EIA report that showed a ...",0.175,0.4875,Positive
+20973,Economies.com,natural gas,10.08.2017,"Natural gas futures rallied over three percent as the dollar index declined, following earlier data from the US, the world's largest energy consumer, including the EIA report that showed a ...",0.033333333,0.333333333,Positive
+20995,Economies.com,natural gas,03.08.2017,"Natural gas prices tilted lower as the dollar index hovered near a 15-month low, following earlier data from the US, the world's largest energy consumer, including the EIA report that showed another ...",0.04,0.34,Positive
+21013,Economies.com,natural gas,27.07.2017,"Natural gas futures rose over 1% even as the dollar index gained ground away from the lowest since June 23, 2016, following earlier data from the US, including the EIA report that showed a smaller ...",0.14,0.49,Positive
+21031,Economies.com,natural gas,20.07.2017,"US natural gas prices fell over one percent even as the dollar index hit another 11-month trough, following earlier data that included the EIA inventory report, which showed another US buildup for ...",0.033333333,0.333333333,Positive
+21034,Economies.com,natural gas,20.07.2017,"The Energy Information Administration released its report on US natural gas inventories, showing a buildup of 28 billion cubic feet in the week ending July 14, adding to the previous reading's 57B ...",-0.033333333,0.283333333,Negative
+21052,Economies.com,natural gas,13.07.2017,"Natural gas futures fell nearly one percent as the dollar traded flat throughout the day, following earlier US data, including the EIA report that showed another inventory buildup for the 15th week ...",0.035,0.305,Positive
+21065,Economies.com,natural gas,07.07.2017,"Natural gas futures slid nearly one percent in American trade as the dollar index rose today, following earlier US data that included the EIA inventory report, which showed another US buildup for the ...",0.133333333,0.391666667,Positive
+21083,Economies.com,natural gas,29.06.2017,"Natural gas futures slumped nearly two percent in American trade even as the dollar hit its lowest since late September, following earlier data from the US, which showed natural gas inventories rose ...",0.075,0.41875,Positive
+21098,Economies.com,natural gas,22.06.2017,"Natural gas futures titled higher even as the dollar inched up, following earlier US data that included the EIA inventory report, which showed US storage buildup shrinking last week.
+ 
+As of ...",0.07,0.313333333,Positive
+21114,Economies.com,natural gas,15.06.2017,"Natural gas futures surged in American trade even as the dollar index continued its rebound off a seven-month trough, after the EIA inventory report showed a less-than-expected buildup last ...",0.033333333,0.155555556,Positive
+21127,Economies.com,natural gas,08.06.2017,"Natural gas futures tilted higher in American trade even as the dollar rebounded for the second session from a seven-month low, while the EIA report showed the largest US inventory buildup since ...",0.07,0.24,Positive
+21141,Economies.com,natural gas,01.06.2017,"Natural gas futures fell nearly two percent in American trade as the dollar gained ground, following earlier data from the US, including the EIA report that showed the largest inventory buildup last ...",0.033333333,0.244444444,Positive
+21155,Economies.com,natural gas,25.05.2017,"Natural gas futures fell nearly one percent in American trade as the dollar index settled higher, following earlier data from the US, including the EIA inventory report, which showed a widened ...",0.075,0.316666667,Positive
+21168,Economies.com,natural gas,18.05.2017,"Natural gas futures tilted lower in American trade as the dollar index climbed off a six-month low, following earlier U.S.data, including the EIA report that showed a widened buildup in U.S. natural ...",0.033333333,0.283333333,Positive
+21180,Economies.com,natural gas,11.05.2017,"Natural gas futures rose nearly three percent in American trade as the dollar index fell according to their inverse relation, which follows earlier U.S. data, including the EIA report showing a ...",0.16,0.45,Positive
+21191,Economies.com,natural gas,04.05.2017,"Natural gas futures tumbled nearly two percent in American trade, shrugging off the dollar's slide today, which follows earlier U.S. data that included the EIA inventory report, showing another build ...",0.05,0.325,Positive
+21202,Economies.com,natural gas,27.04.2017,"Natural gas futures tumbled nearly one percent in American trade as the dollar index settled higher according to their inverse relation, which follows earlier data from the U.S., including the weekly ...",0.09,0.36,Positive
+21213,Economies.com,natural gas,20.04.2017,"Natural gas futures fell nearly one percent in American trade as the dollar index edged higher according to their inverse relation, which follows a spate of data from the U.S., including the EIA ...",0.1125,0.325,Positive
+21222,Economies.com,natural gas,13.04.2017,"Natural gas futures rose over one percent in American trade as the dollar index fell according to their inverse relation, following earlier data from the U.S., the world's largest energy consumer, ...",0.14,0.39,Positive
+21233,Economies.com,natural gas,06.04.2017,"Natural gas prices rose nearly two percent in American trade, shrugging off the dollar's rise, which follows a spate of data from the U.S., the world's largest energy consumer, including the EIA ...",0.2,0.4375,Positive
+21252,Economies.com,natural gas,23.03.2017,"Natural gas futures rose nearly one percent in American trade, shrugging off the dollar's modest rise, which follows a spate of data from the U.S., the world's largest energy consumer, including the ...",0.18,0.53,Positive
+21274,Economies.com,natural gas,09.03.2017,"Natural gas prices rose nearly two percent in American trade as the dollar index fell according to their inverse relation, following earlier data from the U.S., the world's largest energy consumer, ...",0.133333333,0.391666667,Positive
+21285,Economies.com,natural gas,02.03.2017,"Natural gas futures tilted lower in American trade as the dollar index rose according to their inverse relation, following a spate of data from the U.S., the world's largest energy consumer, ...",0.175,0.3625,Positive
+21299,Economies.com,natural gas,23.02.2017,"Natural gas futures rose nearly one percent in American trade as the dollar index dips according to their inverse relation, which follows a basket of data from the U.S., the world's largest energy ...",0.2,0.4375,Positive
+21309,Economies.com,natural gas,16.02.2017,"Natural gas prices slumped over two percent in American trade, shrugging off the dollar's fall, which follows a stream of data from the U.S., the world's largest energy consumer, including the EIA ...",0.05,0.2,Positive
+21322,Economies.com,natural gas,09.02.2017,"Natural gas futures tilted higher in American trade, shrugging off the dollar's rise, which follows a spate of data from the U.S., the world's largest energy consumer, including the weekly EIA report ...",0.116666667,0.3,Positive
+21336,Economies.com,natural gas,02.02.2017,"Natural gas futures tilted higher in American trade, shrugging off the dollar's bounce from its lowest level since mid-November according to their inverse relation, which follows a spate of data from ...",0.116666667,0.3,Positive
+21350,Economies.com,natural gas,26.01.2017,"Natural gas futures rose over one percent in American trade, shrugging off the dollar's rise, which follows a stream of data from the U.S., the world's largest energy consumer, including the weekly ...",0.233333333,0.45,Positive
+21362,Economies.com,natural gas,20.01.2017,"Natural gas futures shed over four percent in American trade, shrugging off the dollar's drop, which follows earlier data from China, the world'a second largest energy consumer, and amid a lack of ...",0.025,0.225,Positive
+22834,Economies.com,natural gas,29.01.2016,"Natural gas prices jumped nearly four percent in the American session despite the rising dollar index, following a spate of earlier data showing a big slowdown in GDP growth in the fourth quarter, ...",0.028571429,0.214285714,Positive
+22836,Economies.com,natural gas,28.01.2016,"Natural gas prices edged up in American trade after the EIA weekly report on storage volumes showed a bigger draw compared to the previous reading, while the U.S. dollar index stumbled following a ...",-0.013333333,0.233333333,Negative
+22849,Economies.com,natural gas,22.01.2016,"Natural gas prices took a step back as the U.S. dollar index muscles its way up according to the inverse relation between the two, which comes after a spate of U.S. data showing an unexpected jump in ...",0.066666667,0.466666667,Positive
+22854,Economies.com,natural gas,21.01.2016,"Natural gas prices gave up ground after a smaller-than-expected storage draw last week, while also being pressured by a stronger dollar. The dip comes about after earlier U.S. data showing a jump in ...",0.033333333,0.322222222,Positive
+22870,Economies.com,natural gas,15.01.2016,"Natural gas prices fell nearly 2% despite a drop in the dollar index, after a barrage of earlier U.S. data showed a slide in all of retail sales, Producer Price Index, industrial and manufacturing ...",0.066666667,0.433333333,Positive
+22875,Economies.com,natural gas,14.01.2016,"Natural gas prices plummeted nearly 5% after the EIA report showed a disappointing drop in the inventories, and as the dollar index notches up gains, making the dollar-denominated gas futures more ...",0.025,0.5,Positive
+23497,Economies.com,natural gas,21.02.2014,West Texas Intermediate (WTI) crude was set to post its longest run of weekly rise on Friday as the cold weather in North America boosted demand for heating oil in the world’s largest economy.  ...,-0.65,1,Negative
+23633,Economies.com,natural gas,10.12.2013,"Crude oil rebounded on Tuesday amid believes the US crude inventories fell for the second week in the US, the world’s biggest oil consumer, while China’s upbeat data added to signs that ...",-0.466666667,0.666666667,Negative
+24907,Economic Times,natural gas,24.08.2018,"MCX Gold has immediate resistance at Rs 29,750-29,850 zone.",0,0,Neutral
+24983,Economic Times,natural gas,23.07.2018,"Natural gas may trade with a sideways bias as it can source its support from near Rs 186 with a likely hurdle near Rs 192.
+",0.075,0.55,Positive
+25034,Economic Times,natural gas,29.06.2018,Here's a look at the likely trends of key commodities for today's session.,0,1,Neutral
